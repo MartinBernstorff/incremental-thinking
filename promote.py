@@ -16,6 +16,7 @@ import shutil
 import re
 import uuid
 import json
+import random
 from pprint import pprint
 from docopt import docopt
 import fileinput
@@ -26,6 +27,12 @@ CONFIG = {
         }
 VERSION = "0.0.1"
 VERSION_LOG = {}
+
+def prob_generator(number):
+    return 1 / (1.5**number)
+
+def decide(prob):
+    return random.random() < prob
 
 def apply_arguments(arguments):
     global CONFIG
@@ -47,15 +54,16 @@ def process_file(filepath):
     
         if priority_tag.search(content) is not None:
             number = int(re.findall(r'#p\d+', content)[0][-1])
-            number += 1
 
-            if "#p10" in content:
-                content = re.sub(r'#p\d+', "", content)
-            else:
-                content = re.sub(r'#p\d+', "#p{}".format(str(number)), content)
-    
-            with open(filepath, "w", encoding="utf8") as f:
-                f.write(content)
+            if decide(prob_generator(number)):
+                number += 1
+                if number > 10:
+                    content = re.sub(r'#p\d+', "", content)
+                else:
+                    content = re.sub(r'#p\d+', "#p{}".format(str(number)), content)
+
+                with open(filepath, "w", encoding="utf8") as f:
+                    f.write(content)
 
 
 def files_from_dir(dirname):
