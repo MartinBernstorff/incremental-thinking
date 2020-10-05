@@ -9,7 +9,6 @@ Options:
     
 """
 
-import logging
 import hashlib
 import tempfile
 import os
@@ -21,8 +20,6 @@ from pprint import pprint
 from docopt import docopt
 import fileinput
 
-logging.basicConfig(level = logging.INFO, filename = "my.log")
-
 CONFIG = {
             'version_log': '.mdvlog',
             'updated_only': False
@@ -31,7 +28,7 @@ VERSION = "0.0.1"
 VERSION_LOG = {}
 
 def prob_generator(number):
-    return 1 / (1.5**number)
+    return 1
 
 def decide(prob):
     return random.random() < prob
@@ -52,31 +49,13 @@ def process_file(filepath):
     with open(filepath, "r", encoding="utf8") as f:
         content = f.read()
 
-        write = 0
-
-        priority_tag = re.compile(r'#p\d+')
-        promoted_tag = re.compile(r'#promoted')
-
+        priority_tag = re.compile(r'###### .*')
+    
         if priority_tag.search(content) is not None:
-            if promoted_tag.search(content) is not None:
-                content = re.sub(r'#promoted',"",content)
-                write += 1
+            content = re.sub(r'###### .*\n{1}', "", content)
 
-            number = int(re.findall(r'#p\d+', content)[0][-1])
-
-            if decide(prob_generator(number)):
-                number += 1
-                if number > 10:
-                    content = re.sub(r'#p\d+', "", content)
-                else:
-                    content = re.sub(r'#p\d+', "#p{} #promoted".format(str(number)), content)
-
-                write += 1
-
-            if write > 0:
-                with open(filepath, "w", encoding="utf8") as f:
-                    logging.info("Changed file {}".format(filepath))
-                    f.write(content)
+            with open(filepath, "w", encoding="utf8") as f:
+                f.write(content)
 
 
 def files_from_dir(dirname):
