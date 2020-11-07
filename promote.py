@@ -29,9 +29,10 @@ CONFIG = {
         }
 VERSION = "0.0.1"
 VERSION_LOG = {}
+STEPS = [1, 1, 1, 28]
 
 def prob_generator(number):
-    return 1 / (1.5**number)
+    return 1 / (number+0.2)
 
 def decide(prob):
     return random.random() < prob
@@ -58,24 +59,31 @@ def process_file(filepath):
         promoted_tag = re.compile(r'#promoted')
 
         if priority_tag.search(content) is not None:
-            if promoted_tag.search(content) is not None:
-                content = re.sub(r'#promoted',"",content)
-                write += 1
-
             number = int(re.findall(r'#p\d+', content)[0][-1])
 
-            if decide(prob_generator(number)):
-                number += 1
-                if number > 10:
-                    content = re.sub(r'#p\d+', "", content)
-                else:
-                    content = re.sub(r'#p\d+', "#p{} #promoted".format(str(number)), content)
+            if number > len(STEPS):
+                content = re.sub(r'#p\d+', "", content)
+                content = re.sub(r'#promoted',"",content)
 
                 write += 1
+            else:
+                if promoted_tag.search(content) is not None:
+                    content = re.sub(r'#promoted',"",content)
+                    write += 1
+
+                if decide(prob_generator(STEPS[number-1])):
+                    number += 1
+                    if number >= len(STEPS):
+                        content = re.sub(r'#p\d+', "", content)
+                    else:
+                        content = re.sub(r'#p\d+', "#p{} #promoted".format(str(number)), content)
+
+                    write += 1
 
             if write > 0:
                 with open(filepath, "w", encoding="utf8") as f:
-                    logging.info("Changed file {}".format(filepath))
+                    logging.info("Changed file {} for the {} time".format(filepath, number))
+                    print("Changed file {} for the {} time".format(filepath, number))
                     f.write(content)
 
 
