@@ -4,14 +4,21 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
         {
-            "name": "Python: Run on Test Lessons",
+            "name": "Python: Run on Life Lessons",
             "type": "python",
             "request": "launch",
             "program": "${file}",
             "args": ["-r" '"/Users/martinbernstorff/Life Lessons Bear"'],
             "console": "integratedTerminal"   
-        
+        },
+        {
+            "name": "Python: Run on Test Desktop",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "args": ["-r" '"~/Desktop/test"'],
+            "console": "integratedTerminal"   
+        },
     ]
 }
