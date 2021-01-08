@@ -12,6 +12,7 @@ Options:
 import logging
 import hashlib
 import tempfile
+import html
 import os
 import curses
 import shutil
@@ -41,7 +42,8 @@ sys.excepthook = my_handler
 
 CONFIG = {
             'version_log': '.mdvlog',
-            'updated_only': False
+            'updated_only': False,
+            'checkbox': False
         }
 VERSION = "0.0.1"
 VERSION_LOG = {}
@@ -65,11 +67,17 @@ def load_version_log(version_log):
     if os.path.exists(version_log):
         VERSION_LOG = json.load(open(version_log, 'r'))
 
-def open_in_bear(filetitle):
-    bear_base = "bear://x-callback-url/open-note?title="
-    encoded_file_title = urllib.parse.quote(filetitle)
+def gen_bear_url(filepath):
+    with open(filepath, "r", encoding="utf8") as f:
+        content = f.read()
+        file_title = re.findall(r'# .*', content)[0][2:].strip()
 
-    url = bear_base + encoded_file_title[:-3]
+        bear_base = "bear://x-callback-url/open-note?title="
+        
+        return bear_base + file_title
+
+def open_in_bear(file_path):
+    url = gen_bear_url(file_path)
 
     webbrowser.open(url)
 
@@ -93,25 +101,19 @@ def add_tag(filepath, content, tag):
         f.write(content)
 
 def main_window(win, filepath, number, content):
-    
-    file_title = re.findall(r'[^\/]*\.md', filepath)[0]
     uid = re.findall(r'<!-- {BearID:.+} -->', content)[0]
     number = int(re.findall(r'#p\d+', content)[0][-1])
 
     content_string = content.replace(uid, "")
     content_string = re.sub(r'<!-- .* -->', "", content_string)
-    # content_string = textwrap.dedent(content_string)
-    content_string = '\n'.join(l for line in content_string.splitlines()
-                                for l in textwrap.wrap(line, width=75))
-
-    print(content_string)
-
+    
     win.nodelay(False)
     key=""
     win.clear()                
 
     win.addstr(content_string.strip() + "\n\n––––––––––––––\n\n")
-    win.addstr("[O]pen | [N]ext | [P]rivate | [W]ork | [R]emove\n")
+    win.addstr("[O]pen | [N]ext | [P]rivate | [W]ork | [R]emove tag | [D]elete\n")
+    win.addstr("Link: {}".format(gen_bear_url(filepath)))
 
     opened = 0
 
@@ -120,7 +122,7 @@ def main_window(win, filepath, number, content):
             key = win.getkey()                     
         
             if str(key) == "o":
-                open_in_bear(file_title)
+                open_in_bear(filepath)
                 opened +=1
             elif str(key) == "n":
                 win.addstr("Next, opened = {}".format(opened))
@@ -133,9 +135,45 @@ def main_window(win, filepath, number, content):
             elif str(key) == "w":
                 add_tag(filepath, content, "#work")
                 return
+            elif str(key) == "d":
+                if os.path.exists(filepath):
+                    os.remove(filepath)
+                    return
+                else:
+                    print("Error in filename")
+            elif str(key) == "r":
+                remove_tag(filepath, content)
+                return
         except Exception as e:
            # No input   
            pass
+
+def remove_tag(filepath, content):
+    content = re.sub(r'#p\d+', "", content)
+    
+    with open(filepath, "w", encoding="utf8") as f:
+        logging.info("Changed file {}".format(filepath))
+        print("Changed file {}".format(filepath))
+        f.write(content)
+
+def check_priority(filepath, excluded_tags):
+    with open(filepath, "r", encoding="utf8") as f:
+        content = f.read()
+
+        if "#p0" in content.lower():
+            logging.info("{} containts #p0")
+            for tag in excluded_tags:
+                if tag.lower() in content.lower():
+                    logging.info("Skipped {} since it matched {}".format(filepath, tag))
+                    return
+
+            number = int(re.findall(r'#p\d+', content)[0][-1])
+
+            curses.wrapper(main_window, filepath, number, content)
+            return
+        else:
+            logging.info("Skipped {}".format(filepath))
+            return
     
 def process_file(filepath, excluded_tags):
     with open(filepath, "r", encoding="utf8") as f:
@@ -171,24 +209,28 @@ def files_from_dir(dirname):
     global VERSION_LOG
     global CONFIG
     
-    excluded_tags = checkboxlist_dialog(
-        title="Exclude hashtags",
-        text="Which hashtags do you want to exclude?",
-        values=[
-            ("#private", "#private"),
-            ("#work", "#work"),
-            ("#life", "#life")
-        ],
-        ok_text="Submit"
-    ).run()
-
-    """exclude = prompt("Any hashtags to exclude? (#private, #work, #life) \n[Comma separated, case-insensitive, no spaces]\n\n", 
-        completer=tag_completer, 
-        complete_while_typing=True,
-        default="#private")"""
+    if CONFIG["checkbox"] == True:
+        excluded_tags = []
+        checkboxlist_dialog(
+            title="Exclude hashtags",
+            text="Which hashtags do you want to exclude?",
+            values=[
+                ("#private", "#private"),
+                ("#work", "#work"),
+                ("#life", "#life")
+            ],
+            ok_text="Submit"
+        ).run()
+    else:
+        excluded_tags = ["#private"]
 
     for parent_dir, _, files in os.walk(dirname):
         random.shuffle(files)
+        for fn in files:
+            if fn.endswith(".md") or fn.endswith(".markdown"):
+                filepath = os.path.join(parent_dir, fn)
+                check_priority(filepath, excluded_tags)
+
         for fn in files:
             if fn.endswith(".md") or fn.endswith(".markdown"):
                 filepath = os.path.join(parent_dir, fn)
@@ -214,4 +256,4 @@ def main():
 
 
 if __name__ == "__main__":
-    exit(main())
+    main()
