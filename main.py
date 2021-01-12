@@ -32,10 +32,11 @@ from prompt_toolkit import prompt
 from prompt_toolkit.shortcuts import checkboxlist_dialog
 from prompt_toolkit.completion import WordCompleter
 
-logging.basicConfig(level = logging.INFO, filename = "my.log")
+logging.basicConfig(level = logging.INFO, filename = "incremental_thinking.log", filemode="w", format="%(asctime)s %(message)s")
 
 def my_handler(type, value, tb):
-    logging.exception("Uncaught exception: {0}".format(str(value)))
+    logging.exception("Uncaught exception: {}\n     Type: {}\n     Traceback: {}".format(str(value), str(type), str(tb)))
+    logging.exception("If it's an addstr error, consider that the window might be overflowing")
 
 # Install exception handler
 sys.excepthook = my_handler
@@ -43,7 +44,7 @@ sys.excepthook = my_handler
 CONFIG = {
             'version_log': '.mdvlog',
             'updated_only': False,
-            'checkbox': False
+            'checkbox': True
         }
 VERSION = "0.0.1"
 VERSION_LOG = {}
@@ -125,7 +126,7 @@ def main_window(win, filepath, number, content):
                 open_in_bear(filepath)
                 opened +=1
             elif str(key) == "n":
-                win.addstr("Next, opened = {}".format(opened))
+                logging.info("Next, opened = {}".format(opened))
                 if opened == 0:
                     next(filepath, number, content)
                 return
@@ -161,18 +162,22 @@ def check_priority(filepath, excluded_tags):
         content = f.read()
 
         if "#p0" in content.lower():
-            logging.info("{} containts #p0")
+            logging.info("{} contains #p0".format(filepath))
+            
             for tag in excluded_tags:
+                logging.info("Checking {} for {}".format(filepath, tag))
                 if tag.lower() in content.lower():
                     logging.info("Skipped {} since it matched {}".format(filepath, tag))
                     return
+                else:
+                    logging.info("Didn't skip {} since it didn't match {}".format(filepath, tag))
 
             number = int(re.findall(r'#p\d+', content)[0][-1])
 
             curses.wrapper(main_window, filepath, number, content)
             return
         else:
-            logging.info("Skipped {}".format(filepath))
+            logging.info("Skipped {} since it didn't contain #p0".format(filepath))
             return
     
 def process_file(filepath, excluded_tags):
@@ -183,6 +188,8 @@ def process_file(filepath, excluded_tags):
             if tag.lower() in content.lower():
                 logging.info("Skipped {} since it matched {}".format(filepath, tag))
                 return
+            else:
+                logging.info("Didn't skip {} since it didn't match {}".format(filepath, tag))
 
         priority_tag = re.compile(r'#p\d+')
 
@@ -210,8 +217,7 @@ def files_from_dir(dirname):
     global CONFIG
     
     if CONFIG["checkbox"] == True:
-        excluded_tags = []
-        checkboxlist_dialog(
+        excluded_tags = checkboxlist_dialog(
             title="Exclude hashtags",
             text="Which hashtags do you want to exclude?",
             values=[
@@ -245,6 +251,8 @@ def main():
     version_log = os.path.abspath(os.path.expanduser(CONFIG['version_log']))
 
     load_version_log(version_log)
+
+    logging.info("------ Started new session ------")
 
     with tempfile.TemporaryDirectory() as tmpdirname:
         os.chdir(tmpdirname) # genanki is very opinionated about where we are.
