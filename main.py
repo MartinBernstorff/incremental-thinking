@@ -102,15 +102,18 @@ def add_tag(filepath, content, tag):
         f.write(content)
 
 def main_window(win, filepath, number, content):
-    uid = re.findall(r'<!-- {BearID:.+} -->', content)[0]
+    uid_string = re.findall(r'<!-- {BearID:.+} -->', content)[0]
+    uid = re.findall(r'{BearID:.+}', content)[0][8:-1]
+
     number = int(re.findall(r'#p\d+', content)[0][-1])
 
-    content_string = content.replace(uid, "")
+    content_string = content.replace(uid_string, "")
     content_string = re.sub(r'<!-- .* -->', "", content_string)
     
     win.nodelay(False)
     key=""
-    win.clear()                
+    win.clear()        
+    win.scrollok(True)        
 
     win.addstr(content_string.strip() + "\n\n––––––––––––––\n\n")
     win.addstr("[O]pen | [N]ext | [P]rivate | [W]ork | [R]emove tag | [D]elete\n")
@@ -139,9 +142,12 @@ def main_window(win, filepath, number, content):
             elif str(key) == "d":
                 if os.path.exists(filepath):
                     os.remove(filepath)
+                    url = "bear://x-callback-url/trash?id={}&show_window=no".format(uid)
+                    webbrowser.open(url)
                     return
                 else:
                     print("Error in filename")
+
             elif str(key) == "r":
                 remove_tag(filepath, content)
                 return
@@ -157,7 +163,7 @@ def remove_tag(filepath, content):
         print("Changed file {}".format(filepath))
         f.write(content)
 
-def check_priority(filepath, excluded_tags):
+def check_priority(filepath, excluded_tags, must_tags):
     with open(filepath, "r", encoding="utf8") as f:
         content = f.read()
 
@@ -171,6 +177,14 @@ def check_priority(filepath, excluded_tags):
                     return
                 else:
                     logging.info("Didn't skip {} since it didn't match {}".format(filepath, tag))
+            
+            for tag in must_tags:
+                logging.info("Checking {} for {}".format(filepath, tag))
+                if tag.lower() not in content.lower():
+                    logging.info("Skipped {} since it didn't match {}".format(filepath, tag))
+                    return
+                else:
+                    logging.info("Didn't skip {} since it matched {}".format(filepath, tag))
 
             number = int(re.findall(r'#p\d+', content)[0][-1])
 
@@ -180,7 +194,7 @@ def check_priority(filepath, excluded_tags):
             logging.info("Skipped {} since it didn't contain #p0".format(filepath))
             return
     
-def process_file(filepath, excluded_tags):
+def process_file(filepath, excluded_tags, must_tags):
     with open(filepath, "r", encoding="utf8") as f:
         content = f.read()
 
@@ -190,6 +204,14 @@ def process_file(filepath, excluded_tags):
                 return
             else:
                 logging.info("Didn't skip {} since it didn't match {}".format(filepath, tag))
+
+        for tag in must_tags:
+                logging.info("Checking {} for {}".format(filepath, tag))
+                if tag.lower() not in content.lower():
+                    logging.info("Skipped {} since it didn't match {}".format(filepath, tag))
+                    return
+                else:
+                    logging.info("Didn't skip {} since it matched {}".format(filepath, tag))
 
         priority_tag = re.compile(r'#p\d+')
 
@@ -217,30 +239,41 @@ def files_from_dir(dirname):
     global CONFIG
     
     if CONFIG["checkbox"] == True:
-        excluded_tags = checkboxlist_dialog(
+        tags = checkboxlist_dialog(
             title="Exclude hashtags",
-            text="Which hashtags do you want to exclude?",
+            text="Filters??",
             values=[
-                ("#private", "#private"),
-                ("#work", "#work"),
-                ("#life", "#life")
+                ("-#private", "-#private"),
+                ("-#work", "-#work"),
+                ("+#private","+#private"),
+                ("+#work","+#work")
             ],
             ok_text="Submit"
         ).run()
     else:
-        excluded_tags = ["#private"]
+        tags = ["#private"]
+
+    excluded_tags = [] # Tags that can't be in the note for it to be shown
+    must_tags = [] # Tags that must be in the note for it to be shown
+
+    for tag in tags:
+        if tag[0:1] == "-":
+            excluded_tags.append(tag[1:])
+        if tag [0:1] == "+":
+            must_tags.append(tag[1:])
+
 
     for parent_dir, _, files in os.walk(dirname):
         random.shuffle(files)
         for fn in files:
             if fn.endswith(".md") or fn.endswith(".markdown"):
                 filepath = os.path.join(parent_dir, fn)
-                check_priority(filepath, excluded_tags)
+                check_priority(filepath, excluded_tags, must_tags)
 
         for fn in files:
             if fn.endswith(".md") or fn.endswith(".markdown"):
                 filepath = os.path.join(parent_dir, fn)
-                process_file(filepath, excluded_tags)
+                process_file(filepath, excluded_tags, must_tags)
 
 def main():
     """Run the thing."""
