@@ -77,6 +77,18 @@ def gen_bear_url(filepath):
         
         return bear_base + file_title
 
+def gen_obsidian_url(filepath):
+    obsidian_base = "obsidian://open?path="
+
+    uri = urllib.parse.quote(filepath, safe="")
+
+    return obsidian_base + uri
+
+def open_in_obsidian(filepath):
+    url = gen_obsidian_url(filepath)
+
+    webbrowser.open(url)
+
 def open_in_bear(file_path):
     url = gen_bear_url(file_path)
 
@@ -117,7 +129,7 @@ def main_window(win, filepath, number, content):
 
     win.addstr(content_string.strip() + "\n\n––––––––––––––\n\n")
     win.addstr("[O]pen | [N]ext | [P]rivate | [W]ork | [R]emove tag | [D]elete\n")
-    win.addstr("Link: {}".format(gen_bear_url(filepath)))
+    win.addstr("Link: {}".format(gen_obsidian_url(filepath)))
 
     opened = 0
 
@@ -125,7 +137,10 @@ def main_window(win, filepath, number, content):
         try:                 
             key = win.getkey()                     
         
-            if str(key) == "o":
+            if str(key) == "o": 
+                open_in_obsidian(filepath)
+                opened +=1
+            elif str(key) == "b":
                 open_in_bear(filepath)
                 opened +=1
             elif str(key) == "n":
@@ -171,7 +186,7 @@ def check_priority(filepath, excluded_tags, must_tags):
             logging.info("{} contains #p0".format(filepath))
             
             for tag in excluded_tags:
-                logging.info("Checking {} for {}".format(filepath, tag))
+                logging.info("Checking {} for excluded_tag {}".format(filepath, tag))
                 if tag.lower() in content.lower():
                     logging.info("Skipped {} since it matched {}".format(filepath, tag))
                     return
@@ -179,7 +194,7 @@ def check_priority(filepath, excluded_tags, must_tags):
                     logging.info("Didn't skip {} since it didn't match {}".format(filepath, tag))
             
             for tag in must_tags:
-                logging.info("Checking {} for {}".format(filepath, tag))
+                logging.info("Checking {} for must_tag {}".format(filepath, tag))
                 if tag.lower() not in content.lower():
                     logging.info("Skipped {} since it didn't match {}".format(filepath, tag))
                     return
@@ -210,7 +225,7 @@ def process_file(filepath, excluded_tags, must_tags):
                 if tag.lower() not in content.lower():
                     logging.info("Skipped {} since it didn't match {}".format(filepath, tag))
                     return
-                else:
+                elif tag.lower() in content.lower():
                     logging.info("Didn't skip {} since it matched {}".format(filepath, tag))
 
         priority_tag = re.compile(r'#p\d+')
@@ -241,7 +256,7 @@ def files_from_dir(dirname):
     if CONFIG["checkbox"] == True:
         tags = checkboxlist_dialog(
             title="Exclude hashtags",
-            text="Filters??",
+            text="Filters?",
             values=[
                 ("-#private", "-#private"),
                 ("-#work", "-#work"),
