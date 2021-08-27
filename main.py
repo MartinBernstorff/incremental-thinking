@@ -10,27 +10,17 @@ Options:
 """
 
 import logging
-import hashlib
 import tempfile
-import html
 import os
 import curses
-import shutil
 import re
 import json
 import random
-import textwrap
-from pprint import pprint
 from docopt import docopt
-from time import sleep
-import fileinput
 import webbrowser
 import urllib.parse
-from os import system
 import sys
-from prompt_toolkit import prompt
 from prompt_toolkit.shortcuts import checkboxlist_dialog
-from prompt_toolkit.completion import WordCompleter
 
 logging.basicConfig(level = logging.INFO, filename = "incremental_thinking.log", filemode="w", format="%(asctime)s %(message)s")
 
