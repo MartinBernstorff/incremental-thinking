@@ -65,7 +65,7 @@ def gen_bear_url(filepath):
 
         bear_base = "bear://x-callback-url/open-note?title="
         
-        return bear_base + file_title
+        return bear_base + file_title + "&show_window=yes&new_window=yes&edit=yes"
 
 def gen_obsidian_url(filepath):
     obsidian_base = "obsidian://open?path="
