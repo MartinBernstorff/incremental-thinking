@@ -128,7 +128,7 @@ def main_window(win, filepath, number, content):
             key = win.getkey()                     
         
             if str(key) == "o": 
-                open_in_obsidian(filepath)
+                open_in_bear(filepath)
                 opened +=1
             elif str(key) == "b":
                 open_in_bear(filepath)

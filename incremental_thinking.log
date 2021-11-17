@@ -1,93 +1,813 @@
-2021-08-18 13:45:30,714 ------ Started new session ------
-2021-08-18 13:47:47,458 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/-Self-recommendations.md since it didn't contain #p0
-2021-08-18 13:47:47,458 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Lichen planus.md since it didn't contain #p0
-2021-08-18 13:47:47,459 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Akut glaukom.md since it didn't contain #p0
-2021-08-18 13:47:47,459 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What in life gets you -really- excited.md since it didn't contain #p0
-2021-08-18 13:47:47,460 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Ethical responsiveness.md since it didn't contain #p0
-2021-08-18 13:47:47,460 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What makes time well spent.md since it didn't contain #p0
-2021-08-18 13:47:47,461 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How do I migrate ideas from Obsidian to execution.md since it didn't contain #p0
-2021-08-18 13:47:47,462 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Find people who inspire you.md since it didn't contain #p0
-2021-08-18 13:47:47,462 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Undersøgelse af underben.md since it didn't contain #p0
-2021-08-18 13:47:47,462 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/15 Oct 2020 at 10-27.md since it didn't contain #p0
-2021-08-18 13:47:47,463 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Træthed.md since it didn't contain #p0
-2021-08-18 13:47:47,463 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Can we use the decision trees for parenthood decision.md since it didn't contain #p0
-2021-08-18 13:47:47,464 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Perihepatit.md since it didn't contain #p0
-2021-08-18 13:47:47,464 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/A weekday in my ideal partnership – vision from 25-07-2021.md since it didn't contain #p0
-2021-08-18 13:47:47,465 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Lipom.md since it didn't contain #p0
-2021-08-18 13:47:47,465 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Avoid overinforming.md since it didn't contain #p0
-2021-08-18 13:47:47,466 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Fourniers gangræn.md since it didn't contain #p0
-2021-08-18 13:47:47,466 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Design systems that align emotions with cognitions.md since it didn't contain #p0
-2021-08-18 13:47:47,466 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Ego depletion.md since it didn't contain #p0
-2021-08-18 13:47:47,467 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Can I use reinforcement learning for suggesting activities.md since it didn't contain #p0
-2021-08-18 13:47:47,467 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Neers klassifikation.md since it didn't contain #p0
-2021-08-18 13:47:47,467 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Udfaldsdefinition T2DBM.md since it didn't contain #p0
-2021-08-18 13:47:47,468 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Caring emotionally might be necessary.md since it didn't contain #p0
-2021-08-18 13:47:47,468 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Graves sygdom.md since it didn't contain #p0
-2021-08-18 13:47:47,469 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Springhofte.md since it didn't contain #p0
-2021-08-18 13:47:47,469 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/This is backed by a lot of research, and it makes for a much more meaningful life as well.md since it didn't contain #p0
-2021-08-18 13:47:47,470 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Decollementlæsion.md since it didn't contain #p0
-2021-08-18 13:47:47,470 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Telangieektasier.md since it didn't contain #p0
-2021-08-18 13:47:47,470 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Living by values keeps your choices open.md since it didn't contain #p0
-2021-08-18 13:47:47,471 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Kateter.md since it didn't contain #p0
-2021-08-18 13:47:47,471 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Pitfalls of borrowing a child.md since it didn't contain #p0
-2021-08-18 13:47:47,471 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What are the advantages of feeds to batches (ie- email to facebook).md since it didn't contain #p0
-2021-08-18 13:47:47,472 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Summarized in just a few sentences, what is your life's story.md since it didn't contain #p0
-2021-08-18 13:47:47,472 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Systems should stabilise desired states.md since it didn't contain #p0
-2021-08-18 13:47:47,472 /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/When do I want to initiate auditioning in dating.md contains #p0
-2021-08-18 13:47:47,472 Checking /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/When do I want to initiate auditioning in dating.md for excluded_tag #work
-2021-08-18 13:47:47,473 Didn't skip /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/When do I want to initiate auditioning in dating.md since it didn't match #work
-2021-08-18 14:22:20,954 Next, opened = 2
-2021-08-18 14:22:20,959 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/When should we explain things to others.md since it didn't contain #p0
-2021-08-18 14:22:20,961 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Only glance at utility to nurture curiosity.md since it didn't contain #p0
-2021-08-18 14:22:20,962 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Meaningness.md since it didn't contain #p0
-2021-08-18 14:22:20,962 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Skånekost.md since it didn't contain #p0
-2021-08-18 14:22:20,963 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Meta-skills for scientific productivity.md since it didn't contain #p0
-2021-08-18 14:22:20,964 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Abductor pollicis longus.md since it didn't contain #p0
-2021-08-18 14:22:20,965 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/C-peptid.md since it didn't contain #p0
-2021-08-18 14:22:20,966 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Subordinate non-bottlenecks.md since it didn't contain #p0
-2021-08-18 14:22:20,967 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Bartolinit.md since it didn't contain #p0
-2021-08-18 14:22:20,968 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/ARB.md since it didn't contain #p0
-2021-08-18 14:22:20,968 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Ensure you meet deadlines.md since it didn't contain #p0
-2021-08-18 14:22:20,969 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Spaced repetition is about changing yourself.md since it didn't contain #p0
-2021-08-18 14:22:20,970 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Olecranonfraktur.md since it didn't contain #p0
-2021-08-18 14:22:20,971 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Thought and feeling control strategies can cause problems.md since it didn't contain #p0
-2021-08-18 14:22:20,971 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Kolinerg urticaria.md since it didn't contain #p0
-2021-08-18 14:22:20,972 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Interpretation.md since it didn't contain #p0
-2021-08-18 14:22:20,973 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Finishing increases gains.md since it didn't contain #p0
-2021-08-18 14:22:20,974 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Keeping media salient without inboxes.md since it didn't contain #p0
-2021-08-18 14:22:20,974 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Urinretention.md since it didn't contain #p0
-2021-08-18 14:22:20,975 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Negative consequences of gaming.md since it didn't contain #p0
-2021-08-18 14:22:20,976 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Use heuristics.md since it didn't contain #p0
-2021-08-18 14:22:20,976 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Anorchia.md since it didn't contain #p0
-2021-08-18 14:22:20,977 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/ACT has allowed me to look forward to normal things again.md since it didn't contain #p0
-2021-08-18 14:22:20,977 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§The virtuous cycle of thought, action and behaviour.md since it didn't contain #p0
-2021-08-18 14:22:20,978 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Habitual and intentional behaviour are different.md since it didn't contain #p0
-2021-08-18 14:22:20,979 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How do I select new projects.md since it didn't contain #p0
-2021-08-18 14:22:20,979 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Mapping systems reveal non-intuitive points for intervention.md since it didn't contain #p0
-2021-08-18 14:22:20,980 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Under which circumstances is novelty search the optimal algorithm, and how does it relate to goal-setting.md since it didn't contain #p0
-2021-08-18 14:22:20,980 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Self-regulation definitions.md since it didn't contain #p0
-2021-08-18 14:22:20,981 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Overfitting.md since it didn't contain #p0
-2021-08-18 14:22:20,981 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Undersøgelse af børn.md since it didn't contain #p0
-2021-08-18 14:22:20,982 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Fald.md since it didn't contain #p0
-2021-08-18 14:22:20,982 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/People can only support your intentions if they know what they are.md since it didn't contain #p0
-2021-08-18 14:22:20,983 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Tidsmæssig stabilitet.md since it didn't contain #p0
-2021-08-18 14:22:20,983 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Stress.md since it didn't contain #p0
-2021-08-18 14:22:20,984 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Habitual behaviour can be changed.md since it didn't contain #p0
-2021-08-18 14:22:20,984 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Böhlervinklen.md since it didn't contain #p0
-2021-08-18 14:22:20,985 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Ledderhosens sygdom.md since it didn't contain #p0
-2021-08-18 14:22:20,985 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Bilirubin.md since it didn't contain #p0
-2021-08-18 14:22:20,986 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Non-specific symptoms are independent of somatization-disorders.md since it didn't contain #p0
-2021-08-18 14:22:20,986 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Coxitis simplex.md since it didn't contain #p0
-2021-08-18 14:22:20,987 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Sekundær hypothyreose.md since it didn't contain #p0
-2021-08-18 14:22:20,988 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Forstoppelse (brug obstipation).md since it didn't contain #p0
-2021-08-18 14:22:20,988 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Kreatinin.md since it didn't contain #p0
-2021-08-18 14:22:20,989 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Primær profylakse.md since it didn't contain #p0
-2021-08-18 14:22:20,989 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Kraniofaryngeom.md since it didn't contain #p0
-2021-08-18 14:22:20,990 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Candida.md since it didn't contain #p0
-2021-08-18 14:22:20,990 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Add next actions for goals to Life Well Spent.md since it didn't contain #p0
-2021-08-18 14:22:20,991 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How does ACT defusion differ from dissociation.md since it didn't contain #p0
-2021-08-18 14:22:20,991 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Denis-klassifikationen.md since it didn't contain #p0
-2021-08-18 14:22:20,992 Skipped /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Patellofemoralt smertesyndrom.md since it didn't contain #p0
-2021-08-18 14:22:20,992 /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What do I want my response time to be for different inboxes.md contains #p0
-2021-08-18 14:22:20,992 Checking /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What do I want my response time to be for different inboxes.md for excluded_tag #work
-2021-08-18 14:22:20,992 Didn't skip /Users/martinbernstorff/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What do I want my response time to be for different inboxes.md since it didn't match #work
+2021-11-17 10:29:03,185 ------ Started new session ------
+2021-11-17 10:29:13,771 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Sklerodaktyli.md since it didn't contain #p0
+2021-11-17 10:29:13,771 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Virtual environments.md since it didn't contain #p0
+2021-11-17 10:29:13,771 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/31-10-2021 - Home.md since it didn't contain #p0
+2021-11-17 10:29:13,771 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Bulla.md since it didn't contain #p0
+2021-11-17 10:29:13,771 /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/A strong vision enables a great life.md contains #p0
+2021-11-17 10:29:13,771 Checking /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/A strong vision enables a great life.md for must_tag #work
+2021-11-17 10:29:13,771 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/A strong vision enables a great life.md since it didn't match #work
+2021-11-17 10:29:13,771 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Do your own thinking.md since it didn't contain #p0
+2021-11-17 10:29:13,772 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Salience of quantification modifies its effect.md since it didn't contain #p0
+2021-11-17 10:29:13,772 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/06-10-2020.md since it didn't contain #p0
+2021-11-17 10:29:13,772 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/12-03-2021.md since it didn't contain #p0
+2021-11-17 10:29:13,772 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Posteriort STEMI.md since it didn't contain #p0
+2021-11-17 10:29:13,772 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Ottowa knee rules.md since it didn't contain #p0
+2021-11-17 10:29:13,772 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/12-10-2021.md since it didn't contain #p0
+2021-11-17 10:29:13,772 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Shower when necessary.md since it didn't contain #p0
+2021-11-17 10:29:13,773 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Tertiær hyperparathyroidisme.md since it didn't contain #p0
+2021-11-17 10:29:13,773 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Jupyter in VSCode.md since it didn't contain #p0
+2021-11-17 10:29:13,773 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Displacement activity.md since it didn't contain #p0
+2021-11-17 10:29:13,773 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Misc.md since it didn't contain #p0
+2021-11-17 10:29:13,773 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Blæreskanning.md since it didn't contain #p0
+2021-11-17 10:29:13,773 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Nedgroet tånegl.md since it didn't contain #p0
+2021-11-17 10:29:13,773 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Effort can be enjoyable.md since it didn't contain #p0
+2021-11-17 10:29:13,773 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Does it make sense to have a wake-up window rather than time.md since it didn't contain #p0
+2021-11-17 10:29:13,773 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Complice is my sidekick.md since it didn't contain #p0
+2021-11-17 10:29:13,774 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Akut otitis media.md since it didn't contain #p0
+2021-11-17 10:29:13,774 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Faryngit.md since it didn't contain #p0
+2021-11-17 10:29:13,774 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Patellart anslag.md since it didn't contain #p0
+2021-11-17 10:29:13,774 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/My ideal partner has fun when around me.md since it didn't contain #p0
+2021-11-17 10:29:13,774 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Learning algorithm selection.md since it didn't contain #p0
+2021-11-17 10:29:13,774 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Motivational intensity is determined by domain-specific self-efficacy.md since it didn't contain #p0
+2021-11-17 10:29:13,775 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Use heuristics for prioritisation.md since it didn't contain #p0
+2021-11-17 10:29:13,775 /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/15-11-2021 - Work.md contains #p0
+2021-11-17 10:29:13,775 Checking /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/15-11-2021 - Work.md for must_tag #work
+2021-11-17 10:29:13,775 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/15-11-2021 - Work.md since it didn't match #work
+2021-11-17 10:29:13,775 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§KBU.md since it didn't contain #p0
+2021-11-17 10:29:13,775 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Add capacity.md since it didn't contain #p0
+2021-11-17 10:29:13,775 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Building in public for medicine.md since it didn't contain #p0
+2021-11-17 10:29:13,775 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Decision theory fails under knightian uncertainty.md since it didn't contain #p0
+2021-11-17 10:29:13,775 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Kønssygdomme.md since it didn't contain #p0
+2021-11-17 10:29:13,775 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Hoste.md since it didn't contain #p0
+2021-11-17 10:29:13,775 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Gennemdyrkning.md since it didn't contain #p0
+2021-11-17 10:29:13,775 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Boredom.md since it didn't contain #p0
+2021-11-17 10:29:13,776 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Extract values from feelings.md since it didn't contain #p0
+2021-11-17 10:29:13,776 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Learned industriousness.md since it didn't contain #p0
+2021-11-17 10:29:13,776 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Prune spaced repetition systems aggressively.md since it didn't contain #p0
+2021-11-17 10:29:13,776 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Primær hyperthyreose.md since it didn't contain #p0
+2021-11-17 10:29:13,776 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What meaningful or important thing should you tell a particular person that you haven't said to them yet.md since it didn't contain #p0
+2021-11-17 10:29:13,777 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Offload.md since it didn't contain #p0
+2021-11-17 10:29:13,777 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Diabetes insipidus.md since it didn't contain #p0
+2021-11-17 10:29:13,777 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What does forgetting to learn mean for Anki.md since it didn't contain #p0
+2021-11-17 10:29:13,777 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/-Promote ideas by relevance.md since it didn't contain #p0
+2021-11-17 10:29:13,777 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Polymyalgia rheumatica.md since it didn't contain #p0
+2021-11-17 10:29:13,777 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Corpus scapula-fraktur.md since it didn't contain #p0
+2021-11-17 10:29:13,777 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Distal radius-fraktur.md since it didn't contain #p0
+2021-11-17 10:29:13,777 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Dyb thromboflebitis.md since it didn't contain #p0
+2021-11-17 10:29:13,777 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Tinea faciei.md since it didn't contain #p0
+2021-11-17 10:29:13,777 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Fibromyalgi.md since it didn't contain #p0
+2021-11-17 10:29:13,777 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Benzoylperoxid.md since it didn't contain #p0
+2021-11-17 10:29:13,778 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Living by values keeps your choices open.md since it didn't contain #p0
+2021-11-17 10:29:13,778 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Externalising the effects of goals.md since it didn't contain #p0
+2021-11-17 10:29:13,778 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Honesty can have emotilnal costs.md since it didn't contain #p0
+2021-11-17 10:29:13,778 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Automation.md since it didn't contain #p0
+2021-11-17 10:29:13,778 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Cobbs vinkel.md since it didn't contain #p0
+2021-11-17 10:29:13,778 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Beskrivelse -> PPR.md since it didn't contain #p0
+2021-11-17 10:29:13,778 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Pramiprexol.md since it didn't contain #p0
+2021-11-17 10:29:13,778 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Borreliose.md since it didn't contain #p0
+2021-11-17 10:29:13,778 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Spacy basics.md since it didn't contain #p0
+2021-11-17 10:29:13,778 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/On The Humanities as Sciences.md since it didn't contain #p0
+2021-11-17 10:29:13,779 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What separates lack of passion-enjoyment from laziness.md since it didn't contain #p0
+2021-11-17 10:29:13,779 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Is the MHC flow in hospital generally appropriate.md since it didn't contain #p0
+2021-11-17 10:29:13,779 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Akut epiglottitis.md since it didn't contain #p0
+2021-11-17 10:29:13,779 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How do we scale up capacity for functional disorders.md since it didn't contain #p0
+2021-11-17 10:29:13,779 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/If you don't know whether those are you real values.md since it didn't contain #p0
+2021-11-17 10:29:13,779 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Why do we need.md since it didn't contain #p0
+2021-11-17 10:29:13,779 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Candida.md since it didn't contain #p0
+2021-11-17 10:29:13,779 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Børneundersøgelse.md since it didn't contain #p0
+2021-11-17 10:29:13,780 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Sklearn- Cross-validation (grid search).md since it didn't contain #p0
+2021-11-17 10:29:13,780 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Undersøge hvor langt tilbage i tid vores tidsvindue kan være.md since it didn't contain #p0
+2021-11-17 10:29:13,780 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Do stretch goals fit into my life.md since it didn't contain #p0
+2021-11-17 10:29:13,780 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Mieke is easily destabilised by changes.md since it didn't contain #p0
+2021-11-17 10:29:13,780 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Lichen ruber (brug Lichen planus).md since it didn't contain #p0
+2021-11-17 10:29:13,780 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Graviditets-cholestase.md since it didn't contain #p0
+2021-11-17 10:29:13,780 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Cognitive fusion is not the enemy.md since it didn't contain #p0
+2021-11-17 10:29:13,780 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Ifokube.md since it didn't contain #p0
+2021-11-17 10:29:13,780 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Antebrachium-fraktur.md since it didn't contain #p0
+2021-11-17 10:29:13,781 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Order activities.md since it didn't contain #p0
+2021-11-17 10:29:13,781 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Can I use reinforcement learning for suggesting activities.md since it didn't contain #p0
+2021-11-17 10:29:13,781 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Lust increases passion in relationships.md since it didn't contain #p0
+2021-11-17 10:29:13,781 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Academic writing.md since it didn't contain #p0
+2021-11-17 10:29:13,781 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Quit all apps during first wake-up of the day.md since it didn't contain #p0
+2021-11-17 10:29:13,781 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Effort expectation predicts effort allocation.md since it didn't contain #p0
+2021-11-17 10:29:13,781 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/LWS for the moment.md since it didn't contain #p0
+2021-11-17 10:29:13,781 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Look into sub-types beneath the MHC categorisation.md since it didn't contain #p0
+2021-11-17 10:29:13,782 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How many hours should I work.md since it didn't contain #p0
+2021-11-17 10:29:13,782 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Kraniofaryngeom.md since it didn't contain #p0
+2021-11-17 10:29:13,782 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/GnRH.md since it didn't contain #p0
+2021-11-17 10:29:13,782 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Den truende patient.md since it didn't contain #p0
+2021-11-17 10:29:13,782 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/20-10-2021 - Home.md since it didn't contain #p0
+2021-11-17 10:29:13,782 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Nudge towards awareness of time for intra-project decisions.md since it didn't contain #p0
+2021-11-17 10:29:13,782 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Overhydreret hyponatriæmi.md since it didn't contain #p0
+2021-11-17 10:29:13,782 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Hæmokromatose.md since it didn't contain #p0
+2021-11-17 10:29:13,782 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Erytem.md since it didn't contain #p0
+2021-11-17 10:29:13,783 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Relaxation.md since it didn't contain #p0
+2021-11-17 10:29:13,783 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Why might we want something without liking or approving of it.md since it didn't contain #p0
+2021-11-17 10:29:13,783 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Pituitær apopleksi.md since it didn't contain #p0
+2021-11-17 10:29:13,783 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Re-naming the source file updates, but doesn't generate notes.md since it didn't contain #p0
+2021-11-17 10:29:13,783 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Øget ICP.md since it didn't contain #p0
+2021-11-17 10:29:13,784 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Supports cloze deletions.md since it didn't contain #p0
+2021-11-17 10:29:13,784 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Probe the approach.md since it didn't contain #p0
+2021-11-17 10:29:13,784 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Missing out.md since it didn't contain #p0
+2021-11-17 10:29:13,784 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Some games foster compulsion.md since it didn't contain #p0
+2021-11-17 10:29:13,784 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/CT.md since it didn't contain #p0
+2021-11-17 10:29:13,784 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Makulær diabetisk retinopati.md since it didn't contain #p0
+2021-11-17 10:29:13,784 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Ekkokardiografi.md since it didn't contain #p0
+2021-11-17 10:29:13,784 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Prader-Willi syndrom.md since it didn't contain #p0
+2021-11-17 10:29:13,785 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What does information in §Forgetting imply about memory.md since it didn't contain #p0
+2021-11-17 10:29:13,785 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Does it make sense to visualise time spent by some constant size for LWS.md since it didn't contain #p0
+2021-11-17 10:29:13,785 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Vigilance is modulated by prediction errors.md since it didn't contain #p0
+2021-11-17 10:29:13,785 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Riedels thyroiditis.md since it didn't contain #p0
+2021-11-17 10:29:13,785 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Hypoglykæmi ved T1D.md since it didn't contain #p0
+2021-11-17 10:29:13,785 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Batched or incremental-live learning for ML-predictions.md since it didn't contain #p0
+2021-11-17 10:29:13,785 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Are functional disorders proper diagnoses.md since it didn't contain #p0
+2021-11-17 10:29:13,785 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Dehydreret hyponatriæmi.md since it didn't contain #p0
+2021-11-17 10:29:13,785 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Akut hoste.md since it didn't contain #p0
+2021-11-17 10:29:13,785 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Wealth.md since it didn't contain #p0
+2021-11-17 10:29:13,786 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/I value exploring things to do.md since it didn't contain #p0
+2021-11-17 10:29:13,786 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Unsure- Quantification as a nudge is controlling.md since it didn't contain #p0
+2021-11-17 10:29:13,786 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Ekstrauterin graviditet.md since it didn't contain #p0
+2021-11-17 10:29:13,786 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/On Contemplation.md since it didn't contain #p0
+2021-11-17 10:29:13,786 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Kontakt-urticaria.md since it didn't contain #p0
+2021-11-17 10:29:13,786 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Stasedermatitis.md since it didn't contain #p0
+2021-11-17 10:29:13,786 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Ligamentskade i knæ.md since it didn't contain #p0
+2021-11-17 10:29:13,787 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Hepatitis B.md since it didn't contain #p0
+2021-11-17 10:29:13,787 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/C6 affektion.md since it didn't contain #p0
+2021-11-17 10:29:13,787 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/N- ulnaris impingement.md since it didn't contain #p0
+2021-11-17 10:29:13,787 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Confusion.md since it didn't contain #p0
+2021-11-17 10:29:13,787 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Thought and feeling control strategies take up time.md since it didn't contain #p0
+2021-11-17 10:29:13,787 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Thought and feeling control strategies can cause problems.md since it didn't contain #p0
+2021-11-17 10:29:13,787 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Do I want to pitch at the research idea or paper level.md since it didn't contain #p0
+2021-11-17 10:29:13,787 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/We're expected to control our inner world.md since it didn't contain #p0
+2021-11-17 10:29:13,787 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Graves orbitopati (TAO).md since it didn't contain #p0
+2021-11-17 10:29:13,788 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Aortadissektion.md since it didn't contain #p0
+2021-11-17 10:29:13,788 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Solitude.md since it didn't contain #p0
+2021-11-17 10:29:13,788 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Quitter macros app.md since it didn't contain #p0
+2021-11-17 10:29:13,788 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Spitz’ nævus.md since it didn't contain #p0
+2021-11-17 10:29:13,788 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Primær amenorré.md since it didn't contain #p0
+2021-11-17 10:29:13,788 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Support notes in my personal finances.md since it didn't contain #p0
+2021-11-17 10:29:13,789 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Simpel infektion.md since it didn't contain #p0
+2021-11-17 10:29:13,789 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Complex tasks benefit little from goal-setting.md since it didn't contain #p0
+2021-11-17 10:29:13,789 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Examine unhelpful beliefs.md since it didn't contain #p0
+2021-11-17 10:29:13,789 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Focus on adding value.md since it didn't contain #p0
+2021-11-17 10:29:13,789 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Luksationer.md since it didn't contain #p0
+2021-11-17 10:29:13,789 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Adams test.md since it didn't contain #p0
+2021-11-17 10:29:13,789 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Act through discomfort.md since it didn't contain #p0
+2021-11-17 10:29:13,789 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Obsidian and Roam fulfill different roles in my life.md since it didn't contain #p0
+2021-11-17 10:29:13,789 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Make it easy to ingest.md since it didn't contain #p0
+2021-11-17 10:29:13,789 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Plan time for disagreements.md since it didn't contain #p0
+2021-11-17 10:29:13,790 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/09-10-2021.md since it didn't contain #p0
+2021-11-17 10:29:13,790 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Novelty is a signal of information.md since it didn't contain #p0
+2021-11-17 10:29:13,790 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/P-amylase.md since it didn't contain #p0
+2021-11-17 10:29:13,790 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What does MHC consist of.md since it didn't contain #p0
+2021-11-17 10:29:13,790 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Memory 25-04-2021.md since it didn't contain #p0
+2021-11-17 10:29:13,790 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Lungeemboli.md since it didn't contain #p0
+2021-11-17 10:29:13,790 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Do I want the value to be calculated based on log for N days instead of all log.md since it didn't contain #p0
+2021-11-17 10:29:13,790 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Does ToC apply if work can be completed in parallel.md since it didn't contain #p0
+2021-11-17 10:29:13,791 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Oligomenorre.md since it didn't contain #p0
+2021-11-17 10:29:13,791 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/HPV-smear.md since it didn't contain #p0
+2021-11-17 10:29:13,791 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Random variable rewards are attractive because they indicate there's a model that we haven't learned.md since it didn't contain #p0
+2021-11-17 10:29:13,791 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Take Todoist into account.md since it didn't contain #p0
+2021-11-17 10:29:13,791 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Konvertering af PN morfin til fast.md since it didn't contain #p0
+2021-11-17 10:29:13,791 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Rumination.md since it didn't contain #p0
+2021-11-17 10:29:13,792 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Do NSS-clusters increase hospital contacts for a given diagnosis.md since it didn't contain #p0
+2021-11-17 10:29:13,792 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Faglig forberedelse til akutmodtagelsen.md since it didn't contain #p0
+2021-11-17 10:29:13,792 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Thrombektomi.md since it didn't contain #p0
+2021-11-17 10:29:13,792 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Lateral claviculafraktur.md since it didn't contain #p0
+2021-11-17 10:29:13,792 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Condyloma lata.md since it didn't contain #p0
+2021-11-17 10:29:13,792 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Finishing tasks quickly can increase total task load.md since it didn't contain #p0
+2021-11-17 10:29:13,792 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Håndrodsknogler.md since it didn't contain #p0
+2021-11-17 10:29:13,792 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Problem solving.md since it didn't contain #p0
+2021-11-17 10:29:13,792 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Borrelia burgdorferi.md since it didn't contain #p0
+2021-11-17 10:29:13,793 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Dødsmåde.md since it didn't contain #p0
+2021-11-17 10:29:13,793 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Dupuytrens kontraktur.md since it didn't contain #p0
+2021-11-17 10:29:13,793 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Flow.md since it didn't contain #p0
+2021-11-17 10:29:13,793 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Unsure- Books may contain knowledge with a longer shelf-life.md since it didn't contain #p0
+2021-11-17 10:29:13,793 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Let things go.md since it didn't contain #p0
+2021-11-17 10:29:13,793 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Degenerative skulderlidelser.md since it didn't contain #p0
+2021-11-17 10:29:13,793 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What I value in community life.md since it didn't contain #p0
+2021-11-17 10:29:13,794 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§My Vision for an Ideal Workday.md since it didn't contain #p0
+2021-11-17 10:29:13,794 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Marvsøm vs skinne.md since it didn't contain #p0
+2021-11-17 10:29:13,794 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Why do I visit Reddit.md since it didn't contain #p0
+2021-11-17 10:29:13,794 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Erythema infectiosum.md since it didn't contain #p0
+2021-11-17 10:29:13,794 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Kreatininkinase.md since it didn't contain #p0
+2021-11-17 10:29:13,794 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Causal inference.md since it didn't contain #p0
+2021-11-17 10:29:13,794 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Add askpsychology to rss.md since it didn't contain #p0
+2021-11-17 10:29:13,794 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/"Better reading" misses the point; what matters is better decision-making.md since it didn't contain #p0
+2021-11-17 10:29:13,795 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Plan your day (use Daily Planning).md since it didn't contain #p0
+2021-11-17 10:29:13,795 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What would you like the next chapter of this story to be.md since it didn't contain #p0
+2021-11-17 10:29:13,795 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Migrate from Hazel to bash plus Keyboard Maestro.md since it didn't contain #p0
+2021-11-17 10:29:13,795 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/TFCC-skade.md since it didn't contain #p0
+2021-11-17 10:29:13,795 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Neurofibrom.md since it didn't contain #p0
+2021-11-17 10:29:13,795 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Clusters in symptom science.md since it didn't contain #p0
+2021-11-17 10:29:13,795 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Adjacent possible.md since it didn't contain #p0
+2021-11-17 10:29:13,795 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Generaliseret kløe.md since it didn't contain #p0
+2021-11-17 10:29:13,796 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Bernstein 2018.md since it didn't contain #p0
+2021-11-17 10:29:13,796 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Mucosis fungoides.md since it didn't contain #p0
+2021-11-17 10:29:13,796 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Set adaptive goals.md since it didn't contain #p0
+2021-11-17 10:29:13,796 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Tina’s presentation.md since it didn't contain #p0
+2021-11-17 10:29:13,796 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How good is regret minimisation as a heuristic.md since it didn't contain #p0
+2021-11-17 10:29:13,796 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/5-ugersundersøgelsen.md since it didn't contain #p0
+2021-11-17 10:29:13,796 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Set time-framed goals.md since it didn't contain #p0
+2021-11-17 10:29:13,797 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Support lists.md since it didn't contain #p0
+2021-11-17 10:29:13,797 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Hævelse af scrotum.md since it didn't contain #p0
+2021-11-17 10:29:13,797 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Akut rotator cuff læsion.md since it didn't contain #p0
+2021-11-17 10:29:13,797 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Fluourescin.md since it didn't contain #p0
+2021-11-17 10:29:13,797 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Do I want to collect notes by source and then synthesize them, or just collect kindling.md since it didn't contain #p0
+2021-11-17 10:29:13,797 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Wolfe, Reyna 2005.md since it didn't contain #p0
+2021-11-17 10:29:13,797 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/MEN.md since it didn't contain #p0
+2021-11-17 10:29:13,800 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Spaced Repetition (primarily use Retrieval Practice).md since it didn't contain #p0
+2021-11-17 10:29:13,800 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Systems should destabilise undesired states.md since it didn't contain #p0
+2021-11-17 10:29:13,800 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What might the consequences of a short term ‘marriage’ be.md since it didn't contain #p0
+2021-11-17 10:29:13,800 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Pakkeliste klinik.md since it didn't contain #p0
+2021-11-17 10:29:13,800 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/The database issues in anki mnemonic medium may be due to creating notes without cards- This, in turn, may be due to mismatch in regex between has_cloze and replace_cloze.md since it didn't contain #p0
+2021-11-17 10:29:13,800 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Calendly.md since it didn't contain #p0
+2021-11-17 10:29:13,801 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/KOL.md since it didn't contain #p0
+2021-11-17 10:29:13,801 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Stefans oplæg.md since it didn't contain #p0
+2021-11-17 10:29:13,801 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What I value in health and body.md since it didn't contain #p0
+2021-11-17 10:29:13,801 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Ichthyosis vulgaris.md since it didn't contain #p0
+2021-11-17 10:29:13,801 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Theory of Constraints.md since it didn't contain #p0
+2021-11-17 10:29:13,801 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Struma.md since it didn't contain #p0
+2021-11-17 10:29:13,802 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Which rules might I experiment with.md since it didn't contain #p0
+2021-11-17 10:29:13,802 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/11-10-2021.md since it didn't contain #p0
+2021-11-17 10:29:13,802 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/EBV.md since it didn't contain #p0
+2021-11-17 10:29:13,802 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Set up the right feedback loops.md since it didn't contain #p0
+2021-11-17 10:29:13,802 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Multipel sklerose (brug dissemineret sklerose).md since it didn't contain #p0
+2021-11-17 10:29:13,802 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Reaktive erytematøse sygdomme.md since it didn't contain #p0
+2021-11-17 10:29:13,802 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What do I connect around.md since it didn't contain #p0
+2021-11-17 10:29:13,803 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Kontaktdermatitis.md since it didn't contain #p0
+2021-11-17 10:29:13,803 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Heuristics for something interesting that might turn out useful.md since it didn't contain #p0
+2021-11-17 10:29:13,803 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Log- Do I want parenthood.md since it didn't contain #p0
+2021-11-17 10:29:13,803 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Generelt om geriatriske patienter.md since it didn't contain #p0
+2021-11-17 10:29:13,803 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Is MHC separate from known diseases.md since it didn't contain #p0
+2021-11-17 10:29:13,803 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Leukocytoklasisk vaskulitis.md since it didn't contain #p0
+2021-11-17 10:29:13,803 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What in your life that you have the power to change is most limiting your long-term happiness.md since it didn't contain #p0
+2021-11-17 10:29:13,804 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/SkedPal.md since it didn't contain #p0
+2021-11-17 10:29:13,804 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Analysis paralysis.md since it didn't contain #p0
+2021-11-17 10:29:13,804 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Entesitis.md since it didn't contain #p0
+2021-11-17 10:29:13,804 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Warfarin.md since it didn't contain #p0
+2021-11-17 10:29:13,804 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/On providing feedback.md since it didn't contain #p0
+2021-11-17 10:29:13,804 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Faglig forberedelse til AP.md since it didn't contain #p0
+2021-11-17 10:29:13,804 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/NSSS.md since it didn't contain #p0
+2021-11-17 10:29:13,804 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Critical Path.md since it didn't contain #p0
+2021-11-17 10:29:13,804 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Denosumab (prolia).md since it didn't contain #p0
+2021-11-17 10:29:13,805 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Collect motivational material.md since it didn't contain #p0
+2021-11-17 10:29:13,805 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Colitis ulcerosa.md since it didn't contain #p0
+2021-11-17 10:29:13,805 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Sekundær binyrebarkinsufficiens.md since it didn't contain #p0
+2021-11-17 10:29:13,805 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Recurrent neural net (RNN).md since it didn't contain #p0
+2021-11-17 10:29:13,805 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Overhydrering.md since it didn't contain #p0
+2021-11-17 10:29:13,805 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/When should we explain things to others.md since it didn't contain #p0
+2021-11-17 10:29:13,805 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Value curiosity.md since it didn't contain #p0
+2021-11-17 10:29:13,805 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Anterior korsbåndslæsion (ACL-læsion).md since it didn't contain #p0
+2021-11-17 10:29:13,805 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Cerebral parese.md since it didn't contain #p0
+2021-11-17 10:29:13,806 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Habituation.md since it didn't contain #p0
+2021-11-17 10:29:13,806 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Does gaming induce anhedonia for me.md since it didn't contain #p0
+2021-11-17 10:29:13,806 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Chunking- A Simple Way to Improve Memorability -mdash; Mullen Memory.md since it didn't contain #p0
+2021-11-17 10:29:13,806 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/BOTEC PhD.md since it didn't contain #p0
+2021-11-17 10:29:13,806 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Psoriasis.md since it didn't contain #p0
+2021-11-17 10:29:13,806 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/12-11-2021 - Work.md since it didn't contain #p0
+2021-11-17 10:29:13,806 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How do I increase exploration.md since it didn't contain #p0
+2021-11-17 10:29:13,806 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Risiko for incident hjerte-karsygdom.md since it didn't contain #p0
+2021-11-17 10:29:13,806 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Degenerative knælidelser.md since it didn't contain #p0
+2021-11-17 10:29:13,806 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Christian Kruses PhD.md since it didn't contain #p0
+2021-11-17 10:29:13,806 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Scheduling coordination software.md since it didn't contain #p0
+2021-11-17 10:29:13,807 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§GitHub Copilot.md since it didn't contain #p0
+2021-11-17 10:29:13,807 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Look for career-advice with Bodil.md since it didn't contain #p0
+2021-11-17 10:29:13,807 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Non-specific symptoms are independent of somatization-disorders.md since it didn't contain #p0
+2021-11-17 10:29:13,807 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Lisfrancs luksation.md since it didn't contain #p0
+2021-11-17 10:29:13,807 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Mieke- Diary.md since it didn't contain #p0
+2021-11-17 10:29:13,808 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Transformer weekly review graf.md since it didn't contain #p0
+2021-11-17 10:29:13,808 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Nurture relationships by engaging.md since it didn't contain #p0
+2021-11-17 10:29:13,808 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Lever.md since it didn't contain #p0
+2021-11-17 10:29:13,808 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/My research prompts don't engage me.md since it didn't contain #p0
+2021-11-17 10:29:13,808 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/PhD hos Søren Dinesen.md since it didn't contain #p0
+2021-11-17 10:29:13,808 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How does Andy order his notes.md since it didn't contain #p0
+2021-11-17 10:29:13,808 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Stress.md since it didn't contain #p0
+2021-11-17 10:29:13,808 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Bandagering.md since it didn't contain #p0
+2021-11-17 10:29:13,809 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Diæt ved T1D.md since it didn't contain #p0
+2021-11-17 10:29:13,809 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Exponential decay.md since it didn't contain #p0
+2021-11-17 10:29:13,809 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Allergisk rhinitis.md since it didn't contain #p0
+2021-11-17 10:29:13,809 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/When is batched feedback beneficial.md since it didn't contain #p0
+2021-11-17 10:29:13,809 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Feedback guides focus.md since it didn't contain #p0
+2021-11-17 10:29:13,809 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Add support for learning areas to airtable feed.md since it didn't contain #p0
+2021-11-17 10:29:13,809 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Kurzban et al.md since it didn't contain #p0
+2021-11-17 10:29:13,809 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/N- femoralis tensionstest.md since it didn't contain #p0
+2021-11-17 10:29:13,809 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/M-komponent.md since it didn't contain #p0
+2021-11-17 10:29:13,809 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Avulsion.md since it didn't contain #p0
+2021-11-17 10:29:13,810 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Career.md since it didn't contain #p0
+2021-11-17 10:29:13,810 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/NSSS- Hvilke diagnoser vil vi kigge på.md since it didn't contain #p0
+2021-11-17 10:29:13,810 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Commotio cerebri.md since it didn't contain #p0
+2021-11-17 10:29:13,810 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Åbne brud.md since it didn't contain #p0
+2021-11-17 10:29:13,810 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Kunstig hjerteklap.md since it didn't contain #p0
+2021-11-17 10:29:13,810 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Add periodical gratitude note to Hazel.md since it didn't contain #p0
+2021-11-17 10:29:13,810 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/R introduction.md since it didn't contain #p0
+2021-11-17 10:29:13,810 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Why do I keep playing games after having played with Simon-Mads.md since it didn't contain #p0
+2021-11-17 10:29:13,810 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§My Vision for Friendships.md since it didn't contain #p0
+2021-11-17 10:29:13,811 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Are NSS handled well in the hospital.md since it didn't contain #p0
+2021-11-17 10:29:13,811 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Thyrotoxikose.md since it didn't contain #p0
+2021-11-17 10:29:13,811 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Diagnostic testing can lead to harm.md since it didn't contain #p0
+2021-11-17 10:29:13,811 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Yearning.md since it didn't contain #p0
+2021-11-17 10:29:13,811 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Akut luftvejsobstruktion.md since it didn't contain #p0
+2021-11-17 10:29:13,811 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Grinding test.md since it didn't contain #p0
+2021-11-17 10:29:13,811 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Turn scientific productivity into something actionable.md since it didn't contain #p0
+2021-11-17 10:29:13,811 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Confirmation bias.md since it didn't contain #p0
+2021-11-17 10:29:13,811 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Nudge towards repeated effort in ideation.md since it didn't contain #p0
+2021-11-17 10:29:13,812 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Hæmolyse.md since it didn't contain #p0
+2021-11-17 10:29:13,812 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Normlessness is not effective.md since it didn't contain #p0
+2021-11-17 10:29:13,812 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Which needs might gaming be dysfunctionally trying to meet.md since it didn't contain #p0
+2021-11-17 10:29:13,812 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Akut vestibulært syndrom (AVS).md since it didn't contain #p0
+2021-11-17 10:29:13,812 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Avoid cloze deletions.md since it didn't contain #p0
+2021-11-17 10:29:13,812 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Algorithm selection and design for ML.md since it didn't contain #p0
+2021-11-17 10:29:13,812 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Aquagen urticaria.md since it didn't contain #p0
+2021-11-17 10:29:13,812 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Is MHC (conditional on the relevant symptoms symptoms) associated with endpoints we wouldn't predict.md since it didn't contain #p0
+2021-11-17 10:29:13,812 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Springfinger.md since it didn't contain #p0
+2021-11-17 10:29:13,813 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Strep-A.md since it didn't contain #p0
+2021-11-17 10:29:13,813 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Anionbytter.md since it didn't contain #p0
+2021-11-17 10:29:13,813 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Pigmenteret basocellulært karcinom.md since it didn't contain #p0
+2021-11-17 10:29:13,813 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/a- dorsalis pedis.md since it didn't contain #p0
+2021-11-17 10:29:13,813 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Sensorineuralt høretab.md since it didn't contain #p0
+2021-11-17 10:29:13,813 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Make recuperation more effective.md since it didn't contain #p0
+2021-11-17 10:29:13,813 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How do we measure learning techniques.md since it didn't contain #p0
+2021-11-17 10:29:13,813 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Balance daily bandwidth.md since it didn't contain #p0
+2021-11-17 10:29:13,813 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/When is the ideal time to take a break.md since it didn't contain #p0
+2021-11-17 10:29:13,813 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Command E (search tool).md since it didn't contain #p0
+2021-11-17 10:29:13,814 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Urgency undermines prioritisation.md since it didn't contain #p0
+2021-11-17 10:29:13,814 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Osteoidt osteom.md since it didn't contain #p0
+2021-11-17 10:29:13,814 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Anterior hofteluksation.md since it didn't contain #p0
+2021-11-17 10:29:13,814 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Make your own decisions.md since it didn't contain #p0
+2021-11-17 10:29:13,814 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Reduce lag due to co-author labour time.md since it didn't contain #p0
+2021-11-17 10:29:13,814 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/The metaphors we use shapes our stance.md since it didn't contain #p0
+2021-11-17 10:29:13,814 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Dopamin-agonist.md since it didn't contain #p0
+2021-11-17 10:29:13,814 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Prolaktin.md since it didn't contain #p0
+2021-11-17 10:29:13,815 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What makes time well spent.md since it didn't contain #p0
+2021-11-17 10:29:13,815 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Hydronefrose.md since it didn't contain #p0
+2021-11-17 10:29:13,815 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Teres minor.md since it didn't contain #p0
+2021-11-17 10:29:13,815 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Osgood-Schlatters sygdom.md since it didn't contain #p0
+2021-11-17 10:29:13,815 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Atopisk dermatitis.md since it didn't contain #p0
+2021-11-17 10:29:13,815 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Artificial novelty distorts our view of the world.md since it didn't contain #p0
+2021-11-17 10:29:13,815 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Risiko for selvskade.md since it didn't contain #p0
+2021-11-17 10:29:13,815 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/DMARD.md since it didn't contain #p0
+2021-11-17 10:29:13,815 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Kvadel.md since it didn't contain #p0
+2021-11-17 10:29:13,815 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How do we develop proper diagnoses.md since it didn't contain #p0
+2021-11-17 10:29:13,816 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/MIP signals my competence when completed.md since it didn't contain #p0
+2021-11-17 10:29:13,816 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Goal setting decreases flexibility.md since it didn't contain #p0
+2021-11-17 10:29:13,816 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Attention.md since it didn't contain #p0
+2021-11-17 10:29:13,816 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Unit Testing.md since it didn't contain #p0
+2021-11-17 10:29:13,816 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Make a new note for each cloze.md since it didn't contain #p0
+2021-11-17 10:29:13,816 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Practical reasons should guide exploration.md since it didn't contain #p0
+2021-11-17 10:29:13,816 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Anafylaksi.md since it didn't contain #p0
+2021-11-17 10:29:13,816 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Proksimal humerusfraktur.md since it didn't contain #p0
+2021-11-17 10:29:13,817 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Passiv mobilitet.md since it didn't contain #p0
+2021-11-17 10:29:13,817 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Helping students with pair programming.md since it didn't contain #p0
+2021-11-17 10:29:13,817 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Morfeatype basocellulært karcinom.md since it didn't contain #p0
+2021-11-17 10:29:13,817 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Design systems that support expectancy.md since it didn't contain #p0
+2021-11-17 10:29:13,817 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Spinallæsion.md since it didn't contain #p0
+2021-11-17 10:29:13,817 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Intern springhofte.md since it didn't contain #p0
+2021-11-17 10:29:13,817 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How can I make Anki reviews easier to start.md since it didn't contain #p0
+2021-11-17 10:29:13,817 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Mariano- Clean Code.md since it didn't contain #p0
+2021-11-17 10:29:13,817 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Future-focused.md since it didn't contain #p0
+2021-11-17 10:29:13,817 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/-Make time for exploration.md since it didn't contain #p0
+2021-11-17 10:29:13,818 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Varicella zoster-virus.md since it didn't contain #p0
+2021-11-17 10:29:13,818 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Thoughts about emotions can cause problems.md since it didn't contain #p0
+2021-11-17 10:29:13,818 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Beware maximisation.md since it didn't contain #p0
+2021-11-17 10:29:13,818 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Clostridium perfringens (gasgangræn).md since it didn't contain #p0
+2021-11-17 10:29:13,818 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Savour life.md since it didn't contain #p0
+2021-11-17 10:29:13,818 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/The daily platform is a continuous foundation.md since it didn't contain #p0
+2021-11-17 10:29:13,818 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Be inspired by the values of other people.md since it didn't contain #p0
+2021-11-17 10:29:13,818 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Us- af hofte.md since it didn't contain #p0
+2021-11-17 10:29:13,818 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Cystitis hos gravide eller ammende.md since it didn't contain #p0
+2021-11-17 10:29:13,818 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What are my 3 core values.md since it didn't contain #p0
+2021-11-17 10:29:13,819 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Hæmothorax.md since it didn't contain #p0
+2021-11-17 10:29:13,819 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Pyc 2009.md since it didn't contain #p0
+2021-11-17 10:29:13,819 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Feedback loops can track either inputs or outputs.md since it didn't contain #p0
+2021-11-17 10:29:13,819 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Informational feedback.md since it didn't contain #p0
+2021-11-17 10:29:13,819 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Urge-inkontinens.md since it didn't contain #p0
+2021-11-17 10:29:13,819 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What might indicate it's time to change the environment.md since it didn't contain #p0
+2021-11-17 10:29:13,819 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Thomas' test.md since it didn't contain #p0
+2021-11-17 10:29:13,820 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Pandas- Handling Categorical Variables.md since it didn't contain #p0
+2021-11-17 10:29:13,820 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/MIL contains interesting problems.md since it didn't contain #p0
+2021-11-17 10:29:13,820 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Fødevareallergi.md since it didn't contain #p0
+2021-11-17 10:29:13,820 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Trello (PM software).md since it didn't contain #p0
+2021-11-17 10:29:13,820 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Impingement test i hoften (McCarthy test).md since it didn't contain #p0
+2021-11-17 10:29:13,820 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Henoch-Schönleins purpura.md since it didn't contain #p0
+2021-11-17 10:29:13,820 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How do we balance card difficulty.md since it didn't contain #p0
+2021-11-17 10:29:13,820 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Latexallergi.md since it didn't contain #p0
+2021-11-17 10:29:13,820 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Formstøbte ørepropper.md since it didn't contain #p0
+2021-11-17 10:29:13,821 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Minimise multitasking.md since it didn't contain #p0
+2021-11-17 10:29:13,821 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/ML- Defining a decision tree.md since it didn't contain #p0
+2021-11-17 10:29:13,821 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Genanki bug.md since it didn't contain #p0
+2021-11-17 10:29:13,821 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/3-årsundersøgelsen.md since it didn't contain #p0
+2021-11-17 10:29:13,821 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Critical Chain.md since it didn't contain #p0
+2021-11-17 10:29:13,821 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Extensor pollicis brevis.md since it didn't contain #p0
+2021-11-17 10:29:13,821 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/PhD- Feasibility Mapper.md since it didn't contain #p0
+2021-11-17 10:29:13,821 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Character strengths.md since it didn't contain #p0
+2021-11-17 10:29:13,821 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Given that I have plenty of time and attention free, what is most important for me to work on.md since it didn't contain #p0
+2021-11-17 10:29:13,821 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Clavi (ligtorne).md since it didn't contain #p0
+2021-11-17 10:29:13,822 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Lumbal spinalstenose.md since it didn't contain #p0
+2021-11-17 10:29:13,822 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/MIP is neglected.md since it didn't contain #p0
+2021-11-17 10:29:13,822 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Use the right data.md since it didn't contain #p0
+2021-11-17 10:29:13,822 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Humans thrive while satisfying desires.md since it didn't contain #p0
+2021-11-17 10:29:13,822 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Andy Matuschak's notes.md since it didn't contain #p0
+2021-11-17 10:29:13,822 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Goal setting makes failure more painful.md since it didn't contain #p0
+2021-11-17 10:29:13,822 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Smiths fraktur.md since it didn't contain #p0
+2021-11-17 10:29:13,822 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Tommelen.md since it didn't contain #p0
+2021-11-17 10:29:13,822 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Hånden.md since it didn't contain #p0
+2021-11-17 10:29:13,822 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Interview Questions for Data-Science Vision for Work.md since it didn't contain #p0
+2021-11-17 10:29:13,823 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Seduce your partner.md since it didn't contain #p0
+2021-11-17 10:29:13,823 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How do we resolve the library vs stream tension in hwo we consume media.md since it didn't contain #p0
+2021-11-17 10:29:13,823 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Do the work for a paper.md since it didn't contain #p0
+2021-11-17 10:29:13,823 /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Which activities do I want to do regularly with a partner.md contains #p0
+2021-11-17 10:29:13,823 Checking /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Which activities do I want to do regularly with a partner.md for must_tag #work
+2021-11-17 10:29:13,823 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Which activities do I want to do regularly with a partner.md since it didn't match #work
+2021-11-17 10:29:13,823 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Halsvenestase.md since it didn't contain #p0
+2021-11-17 10:29:13,823 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Advanced Methods in Pharmacoepidemiology.md since it didn't contain #p0
+2021-11-17 10:29:13,823 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Larynxtraume.md since it didn't contain #p0
+2021-11-17 10:29:13,823 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/09-04-2021.md since it didn't contain #p0
+2021-11-17 10:29:13,823 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Basisk fosfatase.md since it didn't contain #p0
+2021-11-17 10:29:13,823 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/When reviewing activities, only show if less than x probability.md since it didn't contain #p0
+2021-11-17 10:29:13,824 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Idempotency.md since it didn't contain #p0
+2021-11-17 10:29:13,824 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Ulykkesprofylakse.md since it didn't contain #p0
+2021-11-17 10:29:13,824 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Methotrexat.md since it didn't contain #p0
+2021-11-17 10:29:13,824 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What is the ideal balance for work and life notes.md since it didn't contain #p0
+2021-11-17 10:29:13,824 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Balance exploration and specialisation.md since it didn't contain #p0
+2021-11-17 10:29:13,824 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Who inspires you most, and why do you find them inspiring.md since it didn't contain #p0
+2021-11-17 10:29:13,824 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/2020-09-19 10-22-01.md since it didn't contain #p0
+2021-11-17 10:29:13,824 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Before buying a used phone - iPhone.md since it didn't contain #p0
+2021-11-17 10:29:13,824 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Use automaticity in the right places.md since it didn't contain #p0
+2021-11-17 10:29:13,825 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Hardball.md since it didn't contain #p0
+2021-11-17 10:29:13,825 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/GHRH.md since it didn't contain #p0
+2021-11-17 10:29:13,825 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Do I want to implement an Evergreen-like system (like Andy Matuschak's).md since it didn't contain #p0
+2021-11-17 10:29:13,825 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Cholecystitis.md since it didn't contain #p0
+2021-11-17 10:29:13,825 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Pruning bonsai.md since it didn't contain #p0
+2021-11-17 10:29:13,825 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Lust can compete with long-term happiness.md since it didn't contain #p0
+2021-11-17 10:29:13,825 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Mason-klassifikationen.md since it didn't contain #p0
+2021-11-17 10:29:13,825 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Operationalising meta-ethics.md since it didn't contain #p0
+2021-11-17 10:29:13,826 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Keratoakantom.md since it didn't contain #p0
+2021-11-17 10:29:13,826 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Building Lucerne, a Twitter experience tailored to me - thesephist-com.md since it didn't contain #p0
+2021-11-17 10:29:13,826 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Medfødte hudsygdomme (genodermatoser).md since it didn't contain #p0
+2021-11-17 10:29:13,826 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Aterom.md since it didn't contain #p0
+2021-11-17 10:29:13,826 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Endless feeds keep you engaged.md since it didn't contain #p0
+2021-11-17 10:29:13,826 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Perihepatit.md since it didn't contain #p0
+2021-11-17 10:29:13,826 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Allergisk conjunktivitis.md since it didn't contain #p0
+2021-11-17 10:29:13,826 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Quality check at low value.md since it didn't contain #p0
+2021-11-17 10:29:13,826 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Active learning.md since it didn't contain #p0
+2021-11-17 10:29:13,826 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Interior Design.md since it didn't contain #p0
+2021-11-17 10:29:13,827 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Test with 5 users.md since it didn't contain #p0
+2021-11-17 10:29:13,827 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Monte Carlo simulation.md since it didn't contain #p0
+2021-11-17 10:29:13,827 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Paræstesi.md since it didn't contain #p0
+2021-11-17 10:29:13,827 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/C-sign.md since it didn't contain #p0
+2021-11-17 10:29:13,827 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Sebastian Scott Engen.md since it didn't contain #p0
+2021-11-17 10:29:13,827 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Thought and feeling control strategies make us feel defective because the thoughts and feelings return.md since it didn't contain #p0
+2021-11-17 10:29:13,827 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Minimise defects.md since it didn't contain #p0
+2021-11-17 10:29:13,827 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Why Meander.md since it didn't contain #p0
+2021-11-17 10:29:13,827 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Goal competition.md since it didn't contain #p0
+2021-11-17 10:29:13,828 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Outlines aren’t taken seriously.md since it didn't contain #p0
+2021-11-17 10:29:13,828 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Få kæledyr-getting pets.md since it didn't contain #p0
+2021-11-17 10:29:13,828 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Loop-diuretika.md since it didn't contain #p0
+2021-11-17 10:29:13,828 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/LinkedIn maintains professional connections.md since it didn't contain #p0
+2021-11-17 10:29:13,828 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Warroom.md since it didn't contain #p0
+2021-11-17 10:29:13,828 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Kompressionsfraktur.md since it didn't contain #p0
+2021-11-17 10:29:13,828 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Systolisk mislyd.md since it didn't contain #p0
+2021-11-17 10:29:13,828 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Perianal dermatitis.md since it didn't contain #p0
+2021-11-17 10:29:13,829 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Bevidsthedspåvirkning.md since it didn't contain #p0
+2021-11-17 10:29:13,829 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Intuition.md since it didn't contain #p0
+2021-11-17 10:29:13,829 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/MMSE.md since it didn't contain #p0
+2021-11-17 10:29:13,829 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Makrocytær anæmi.md since it didn't contain #p0
+2021-11-17 10:29:13,829 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Perikardietamponade.md since it didn't contain #p0
+2021-11-17 10:29:13,829 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Infantilt hæmangiom.md since it didn't contain #p0
+2021-11-17 10:29:13,829 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Motivation.md since it didn't contain #p0
+2021-11-17 10:29:13,830 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Int- Meandering.md since it didn't contain #p0
+2021-11-17 10:29:13,830 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Evidence for causal psychological detachment.md since it didn't contain #p0
+2021-11-17 10:29:13,830 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Erythrasma.md since it didn't contain #p0
+2021-11-17 10:29:13,830 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Dating.md since it didn't contain #p0
+2021-11-17 10:29:13,830 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Koagulationstal.md since it didn't contain #p0
+2021-11-17 10:29:13,830 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/LH.md since it didn't contain #p0
+2021-11-17 10:29:13,830 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/IGF-1.md since it didn't contain #p0
+2021-11-17 10:29:13,830 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Joe Edelman Textbook.md since it didn't contain #p0
+2021-11-17 10:29:13,831 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/We are never bored of deep novelty.md since it didn't contain #p0
+2021-11-17 10:29:13,831 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Suppose you knew that you were going to die instantly (but painlessly) in exactly 7 days- What would you spend your last week doing.md since it didn't contain #p0
+2021-11-17 10:29:13,831 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Embedding.md since it didn't contain #p0
+2021-11-17 10:29:13,831 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Retrieval prompts should encode ideas from multiple angles.md since it didn't contain #p0
+2021-11-17 10:29:13,831 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How does a cool-down period fit into my workflow.md since it didn't contain #p0
+2021-11-17 10:29:13,831 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Eosinofil bronkitis.md since it didn't contain #p0
+2021-11-17 10:29:13,831 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/The personal mnemonic medium can be used for information ingest.md since it didn't contain #p0
+2021-11-17 10:29:13,831 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/ACT works by orienting towards our own goals.md since it didn't contain #p0
+2021-11-17 10:29:13,831 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Retrieval prompts should connect and relate ideas.md since it didn't contain #p0
+2021-11-17 10:29:13,832 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Olecranon.md since it didn't contain #p0
+2021-11-17 10:29:13,832 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Scheduling makes activities seem more like work.md since it didn't contain #p0
+2021-11-17 10:29:13,832 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Eriks møde, 24-08-2021.md since it didn't contain #p0
+2021-11-17 10:29:13,832 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Identify the signs.md since it didn't contain #p0
+2021-11-17 10:29:13,832 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Rectified linear unit (ReLU).md since it didn't contain #p0
+2021-11-17 10:29:13,832 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Normalanatomi i håndleddet.md since it didn't contain #p0
+2021-11-17 10:29:13,832 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§My inboxes.md since it didn't contain #p0
+2021-11-17 10:29:13,832 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Do I want to stay with Mieke.md since it didn't contain #p0
+2021-11-17 10:29:13,833 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Milier.md since it didn't contain #p0
+2021-11-17 10:29:13,833 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Motivational intensity is decreased by delay.md since it didn't contain #p0
+2021-11-17 10:29:13,833 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Ektopisk graviditet.md since it didn't contain #p0
+2021-11-17 10:29:13,833 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Retrieval prompts should permit only one answer.md since it didn't contain #p0
+2021-11-17 10:29:13,833 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Hypercalcæmi.md since it didn't contain #p0
+2021-11-17 10:29:13,833 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What are the most important attributes of good spaced repetition memory prompts.md since it didn't contain #p0
+2021-11-17 10:29:13,833 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Omalizumab.md since it didn't contain #p0
+2021-11-17 10:29:13,833 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Hallux valgus.md since it didn't contain #p0
+2021-11-17 10:29:13,833 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Fluoxetin.md since it didn't contain #p0
+2021-11-17 10:29:13,833 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Gigantisme.md since it didn't contain #p0
+2021-11-17 10:29:13,833 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Mixed connective tissue disease (MCTD).md since it didn't contain #p0
+2021-11-17 10:29:13,834 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Timestripe.md since it didn't contain #p0
+2021-11-17 10:29:13,834 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Pruning My Personal Mnemonic Medium.md since it didn't contain #p0
+2021-11-17 10:29:13,834 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Avoid Goodhart's law.md since it didn't contain #p0
+2021-11-17 10:29:13,834 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Contra-freeloading.md since it didn't contain #p0
+2021-11-17 10:29:13,834 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Laryngitis acuta.md since it didn't contain #p0
+2021-11-17 10:29:13,834 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Hell yeah or no.md since it didn't contain #p0
+2021-11-17 10:29:13,834 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/WIP decreases flexibility.md since it didn't contain #p0
+2021-11-17 10:29:13,834 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Optimise reuseability in litterature review.md since it didn't contain #p0
+2021-11-17 10:29:13,834 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Kat.md since it didn't contain #p0
+2021-11-17 10:29:13,835 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Do I want to make use of intermittent variable reward.md since it didn't contain #p0
+2021-11-17 10:29:13,835 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/E2021- Pensum.md since it didn't contain #p0
+2021-11-17 10:29:13,835 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Given the high complication rate of Corona virus, does it make sense to be more careful.md since it didn't contain #p0
+2021-11-17 10:29:13,835 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Never forget calendar events.md since it didn't contain #p0
+2021-11-17 10:29:13,835 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§My systems.md since it didn't contain #p0
+2021-11-17 10:29:13,835 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How does ACT relate to chronic stress.md since it didn't contain #p0
+2021-11-17 10:29:13,835 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Measure only what matters.md since it didn't contain #p0
+2021-11-17 10:29:13,835 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Blandings-inkontinens.md since it didn't contain #p0
+2021-11-17 10:29:13,835 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Pseudofosfatartrit.md since it didn't contain #p0
+2021-11-17 10:29:13,835 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How does my weekly review notice that things are going wrong.md since it didn't contain #p0
+2021-11-17 10:29:13,836 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Twitter.md since it didn't contain #p0
+2021-11-17 10:29:13,836 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Urticaria.md since it didn't contain #p0
+2021-11-17 10:29:13,836 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Tertiær hypothyreose.md since it didn't contain #p0
+2021-11-17 10:29:13,836 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Battered child (børnemishandling).md since it didn't contain #p0
+2021-11-17 10:29:13,836 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/St- c.md since it didn't contain #p0
+2021-11-17 10:29:13,836 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Idea.md since it didn't contain #p0
+2021-11-17 10:29:13,836 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Fod.md since it didn't contain #p0
+2021-11-17 10:29:13,836 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Regret Minimisation.md since it didn't contain #p0
+2021-11-17 10:29:13,837 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/SR.md since it didn't contain #p0
+2021-11-17 10:29:13,837 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Hvid dermografisme.md since it didn't contain #p0
+2021-11-17 10:29:13,837 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Sandsynlighed for behandlingsrespons.md since it didn't contain #p0
+2021-11-17 10:29:13,837 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Radiojod.md since it didn't contain #p0
+2021-11-17 10:29:13,837 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Mb- Calve-Legg-Perthe.md since it didn't contain #p0
+2021-11-17 10:29:13,837 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Learning techniques.md since it didn't contain #p0
+2021-11-17 10:29:13,837 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Do we want to use test-driven development.md since it didn't contain #p0
+2021-11-17 10:29:13,838 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Which feedback loops do I want around dating.md since it didn't contain #p0
+2021-11-17 10:29:13,838 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Automatically prune activities.md since it didn't contain #p0
+2021-11-17 10:29:13,838 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/One-shot learning.md since it didn't contain #p0
+2021-11-17 10:29:13,838 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Extract values from goals.md since it didn't contain #p0
+2021-11-17 10:29:13,838 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How often to upgrade your iPhone.md since it didn't contain #p0
+2021-11-17 10:29:13,838 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Hope is problematic when we cannot act on it.md since it didn't contain #p0
+2021-11-17 10:29:13,838 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Feedback.md since it didn't contain #p0
+2021-11-17 10:29:13,838 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Systems should guide towards the desired state.md since it didn't contain #p0
+2021-11-17 10:29:13,838 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Risiko for incident diabetes.md since it didn't contain #p0
+2021-11-17 10:29:13,839 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What determines the ideal balance between new material and processing known material.md since it didn't contain #p0
+2021-11-17 10:29:13,839 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Tinea cruris.md since it didn't contain #p0
+2021-11-17 10:29:13,839 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Avoid detachment processes.md since it didn't contain #p0
+2021-11-17 10:29:13,839 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How might software support our intentions.md since it didn't contain #p0
+2021-11-17 10:29:13,839 /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Multitask learning.md contains #p0
+2021-11-17 10:29:13,839 Checking /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Multitask learning.md for must_tag #work
+2021-11-17 10:29:13,839 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Multitask learning.md since it didn't match #work
+2021-11-17 10:29:13,839 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/We can't prevent all discomfort.md since it didn't contain #p0
+2021-11-17 10:29:13,839 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Luksationer i hånden.md since it didn't contain #p0
+2021-11-17 10:29:13,839 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What is the goal of me building a tribe.md since it didn't contain #p0
+2021-11-17 10:29:13,840 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Epididymitis.md since it didn't contain #p0
+2021-11-17 10:29:13,840 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Postpone decision based on calendar time.md since it didn't contain #p0
+2021-11-17 10:29:13,840 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/-My Implementation of Life Well Spent (LWS).md since it didn't contain #p0
+2021-11-17 10:29:13,840 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How Emotions are Made.md since it didn't contain #p0
+2021-11-17 10:29:13,840 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Does willing parenthood increase life satisfaction in general.md since it didn't contain #p0
+2021-11-17 10:29:13,840 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Intuition requires high validity.md since it didn't contain #p0
+2021-11-17 10:29:13,840 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Create email account for mobile - eg- for cinema tickets, plane tickets, invoices etc.md since it didn't contain #p0
+2021-11-17 10:29:13,840 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Albumin-kreatinin-ratio.md since it didn't contain #p0
+2021-11-17 10:29:13,840 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Hoftealloplastik.md since it didn't contain #p0
+2021-11-17 10:29:13,840 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/If you define the menu, you shape the choices.md since it didn't contain #p0
+2021-11-17 10:29:13,840 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Participation.md since it didn't contain #p0
+2021-11-17 10:29:13,841 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Add "super-category", eg- chores or similar.md since it didn't contain #p0
+2021-11-17 10:29:13,841 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Measurement error.md since it didn't contain #p0
+2021-11-17 10:29:13,841 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Task switching erodes focus.md since it didn't contain #p0
+2021-11-17 10:29:13,841 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Measure 'time well spent' with reporter.md since it didn't contain #p0
+2021-11-17 10:29:13,841 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Jupyter Notebooks.md since it didn't contain #p0
+2021-11-17 10:29:13,841 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/A norm of eating with your family without watching something will lead to better conversations- If this idea fills you with dread, consider getting a new family.md since it didn't contain #p0
+2021-11-17 10:29:13,841 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Lichen simplex chronicus.md since it didn't contain #p0
+2021-11-17 10:29:13,842 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Salicylvaselin.md since it didn't contain #p0
+2021-11-17 10:29:13,842 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Avoid sophistication that diminishes your enjoyment.md since it didn't contain #p0
+2021-11-17 10:29:13,842 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§My High-Level Vision for My Life.md since it didn't contain #p0
+2021-11-17 10:29:13,842 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Do we want to use multitask learning.md since it didn't contain #p0
+2021-11-17 10:29:13,842 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Juvenil idiopatisk artrit.md since it didn't contain #p0
+2021-11-17 10:29:13,842 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Binyren.md since it didn't contain #p0
+2021-11-17 10:29:13,842 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Statistics are important.md since it didn't contain #p0
+2021-11-17 10:29:13,842 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/A proper diagnosis should be of benefit to the patient.md since it didn't contain #p0
+2021-11-17 10:29:13,843 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Øvre urinvejsinfektion.md since it didn't contain #p0
+2021-11-17 10:29:13,843 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Everything sucks at the beginning.md since it didn't contain #p0
+2021-11-17 10:29:13,843 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/I am averse to work when at home.md since it didn't contain #p0
+2021-11-17 10:29:13,843 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Is thought control and conditioning helpful for weak thoughts and emotions.md since it didn't contain #p0
+2021-11-17 10:29:13,843 /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/-How do I make retrieval practice a priority.md contains #p0
+2021-11-17 10:29:13,843 Checking /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/-How do I make retrieval practice a priority.md for must_tag #work
+2021-11-17 10:29:13,843 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/-How do I make retrieval practice a priority.md since it didn't match #work
+2021-11-17 10:29:13,843 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Neonatal ikterus.md since it didn't contain #p0
+2021-11-17 10:29:13,843 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Positive feedback.md since it didn't contain #p0
+2021-11-17 10:29:13,843 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Bjork 1994.md since it didn't contain #p0
+2021-11-17 10:29:13,843 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Familiær hypocalciurisk hypercalcæmi (FHH).md since it didn't contain #p0
+2021-11-17 10:29:13,843 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Either be exploring or exploiting.md since it didn't contain #p0
+2021-11-17 10:29:13,844 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Akromegali.md since it didn't contain #p0
+2021-11-17 10:29:13,844 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Allergisk vaskulitis.md since it didn't contain #p0
+2021-11-17 10:29:13,844 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Emotional caring is necessary for true values.md since it didn't contain #p0
+2021-11-17 10:29:13,844 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Under which circumstances does positive behaviour not lead to positive affect.md since it didn't contain #p0
+2021-11-17 10:29:13,844 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/mini-IPIP.md since it didn't contain #p0
+2021-11-17 10:29:13,844 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/k-Nearest Neighbours.md since it didn't contain #p0
+2021-11-17 10:29:13,844 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Distribution of work determines number of citations.md since it didn't contain #p0
+2021-11-17 10:29:13,844 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Bruge E117-spørgsmål til at prædiktere skizofreni.md since it didn't contain #p0
+2021-11-17 10:29:13,844 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Heuristics are low effort.md since it didn't contain #p0
+2021-11-17 10:29:13,844 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Den følelsesladede patient.md since it didn't contain #p0
+2021-11-17 10:29:13,844 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Interpret feedback correctly.md since it didn't contain #p0
+2021-11-17 10:29:13,845 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Hypernatriæmi.md since it didn't contain #p0
+2021-11-17 10:29:13,845 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Make frequent activities less draining.md since it didn't contain #p0
+2021-11-17 10:29:13,845 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How should we critique research.md since it didn't contain #p0
+2021-11-17 10:29:13,845 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Do children with NSS have more nighttime contacts than those without.md since it didn't contain #p0
+2021-11-17 10:29:13,845 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Self-regulation definitions.md since it didn't contain #p0
+2021-11-17 10:29:13,845 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Depending on if you have them already, invest in a few tailored pieces clothing that go with a lot and you can wear regularly.md since it didn't contain #p0
+2021-11-17 10:29:13,845 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Statin.md since it didn't contain #p0
+2021-11-17 10:29:13,845 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Reelt prædiktionsstudie.md since it didn't contain #p0
+2021-11-17 10:29:13,845 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Auto-scheduling limits analysis paralysis.md since it didn't contain #p0
+2021-11-17 10:29:13,845 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Antifragile.md since it didn't contain #p0
+2021-11-17 10:29:13,846 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Help others focus on what is within their control.md since it didn't contain #p0
+2021-11-17 10:29:13,846 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Effort.md since it didn't contain #p0
+2021-11-17 10:29:13,846 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How do I organise practicing skills in my work.md since it didn't contain #p0
+2021-11-17 10:29:13,846 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Atypisk pneumoni.md since it didn't contain #p0
+2021-11-17 10:29:13,846 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Targets markdown.md since it didn't contain #p0
+2021-11-17 10:29:13,846 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Wet-smear.md since it didn't contain #p0
+2021-11-17 10:29:13,846 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/MIP is novelty search.md since it didn't contain #p0
+2021-11-17 10:29:13,846 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Cluster analysis.md since it didn't contain #p0
+2021-11-17 10:29:13,847 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/My ideal partner is a functionalist.md since it didn't contain #p0
+2021-11-17 10:29:13,847 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Knowledge work is like building a graph.md since it didn't contain #p0
+2021-11-17 10:29:13,847 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Varicer.md since it didn't contain #p0
+2021-11-17 10:29:13,847 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Marie Øbo.md since it didn't contain #p0
+2021-11-17 10:29:13,847 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Dexamethason.md since it didn't contain #p0
+2021-11-17 10:29:13,847 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Arteritis temporalis.md since it didn't contain #p0
+2021-11-17 10:29:13,847 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Systems should be self-cleaning.md since it didn't contain #p0
+2021-11-17 10:29:13,847 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Tertiær profylakse.md since it didn't contain #p0
+2021-11-17 10:29:13,847 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/AML.md since it didn't contain #p0
+2021-11-17 10:29:13,848 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What do you think is holding you back from achieving more in your life than you've achieved so far.md since it didn't contain #p0
+2021-11-17 10:29:13,848 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Airtable calendar import.md since it didn't contain #p0
+2021-11-17 10:29:13,848 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Epidemiology Journal club.md since it didn't contain #p0
+2021-11-17 10:29:13,848 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Lentigo maligna-melanom.md since it didn't contain #p0
+2021-11-17 10:29:13,848 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Block-replacement therapy.md since it didn't contain #p0
+2021-11-17 10:29:13,848 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Statistics can be dangerous.md since it didn't contain #p0
+2021-11-17 10:29:13,848 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Linear regression.md since it didn't contain #p0
+2021-11-17 10:29:13,848 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Cavum tympani (brug mellemøret).md since it didn't contain #p0
+2021-11-17 10:29:13,848 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Test.md since it didn't contain #p0
+2021-11-17 10:29:13,849 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Synacthentest.md since it didn't contain #p0
+2021-11-17 10:29:13,849 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Life is too short for highly engaging displacement activities.md since it didn't contain #p0
+2021-11-17 10:29:13,849 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Fall Guys.md since it didn't contain #p0
+2021-11-17 10:29:13,849 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Vulnerability, Trust and Relatedness are self-reinforcing.md since it didn't contain #p0
+2021-11-17 10:29:13,849 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Time varying treatments.md since it didn't contain #p0
+2021-11-17 10:29:13,849 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Do we make motivational material part of daily life.md since it didn't contain #p0
+2021-11-17 10:29:13,849 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Open-mic.md since it didn't contain #p0
+2021-11-17 10:29:13,849 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Elevens Alsidige Udvikling.md since it didn't contain #p0
+2021-11-17 10:29:13,850 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/LTRs need value overlap.md since it didn't contain #p0
+2021-11-17 10:29:13,850 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How do I foster a sense of autonomy and agency in my day.md since it didn't contain #p0
+2021-11-17 10:29:13,850 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Cafe au lait pletter.md since it didn't contain #p0
+2021-11-17 10:29:13,850 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Sheehan’s syndrom.md since it didn't contain #p0
+2021-11-17 10:29:13,850 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/General principles makes it too easy to overgeneralise.md since it didn't contain #p0
+2021-11-17 10:29:13,850 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Evaporating Cloud.md since it didn't contain #p0
+2021-11-17 10:29:13,850 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Practice like a scientist, perform like an artist.md since it didn't contain #p0
+2021-11-17 10:29:13,850 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Building.md since it didn't contain #p0
+2021-11-17 10:29:13,850 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How do I balance hedonism and eudaemonia.md since it didn't contain #p0
+2021-11-17 10:29:13,850 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Rubella.md since it didn't contain #p0
+2021-11-17 10:29:13,850 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Storytelling increases salience.md since it didn't contain #p0
+2021-11-17 10:29:13,851 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Posterior skulderluksation.md since it didn't contain #p0
+2021-11-17 10:29:13,851 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Positionel talipes.md since it didn't contain #p0
+2021-11-17 10:29:13,851 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Produce research papers.md since it didn't contain #p0
+2021-11-17 10:29:13,851 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Monteggia fraktur-dislokation.md since it didn't contain #p0
+2021-11-17 10:29:13,851 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What separates a node from an edge in a knowledge graph.md since it didn't contain #p0
+2021-11-17 10:29:13,851 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/We often deny ourselves a sense of choice.md since it didn't contain #p0
+2021-11-17 10:29:13,852 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Lack of knowledge of values can be due to experiential avoidance.md since it didn't contain #p0
+2021-11-17 10:29:13,852 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Common values checklist.md since it didn't contain #p0
+2021-11-17 10:29:13,852 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Goal ambition determines performance.md since it didn't contain #p0
+2021-11-17 10:29:13,852 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Otalgi.md since it didn't contain #p0
+2021-11-17 10:29:13,852 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Do I want to pitch before meetings.md since it didn't contain #p0
+2021-11-17 10:29:13,852 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Neuropatisk diabetisk fodsår.md since it didn't contain #p0
+2021-11-17 10:29:13,852 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/15-11-2021 - Home.md since it didn't contain #p0
+2021-11-17 10:29:13,852 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Cloze deletions.md since it didn't contain #p0
+2021-11-17 10:29:13,852 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Vasculitissår.md since it didn't contain #p0
+2021-11-17 10:29:13,852 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Udfaldsdefinition T2DBM.md since it didn't contain #p0
+2021-11-17 10:29:13,852 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Hide quantification during intrinsically motivating activities.md since it didn't contain #p0
+2021-11-17 10:29:13,853 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/NLP course, CogSci E21.md since it didn't contain #p0
+2021-11-17 10:29:13,853 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Knude i brystet hos mænd.md since it didn't contain #p0
+2021-11-17 10:29:13,853 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Provokationstest.md since it didn't contain #p0
+2021-11-17 10:29:13,853 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Rtg- håndled.md since it didn't contain #p0
+2021-11-17 10:29:13,853 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Conversation.md since it didn't contain #p0
+2021-11-17 10:29:13,853 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Conns syndrom (brug primær hyperaldosteronisme).md since it didn't contain #p0
+2021-11-17 10:29:13,853 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Generation (DDX).md since it didn't contain #p0
+2021-11-17 10:29:13,853 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Pomodoros decrease impulsiveness.md since it didn't contain #p0
+2021-11-17 10:29:13,854 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Caching is often more efficient than computation.md since it didn't contain #p0
+2021-11-17 10:29:13,854 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Scapulafraktur.md since it didn't contain #p0
+2021-11-17 10:29:13,854 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Lokalt steroid.md since it didn't contain #p0
+2021-11-17 10:29:13,854 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/De 4 h’er og 4 t’er.md since it didn't contain #p0
+2021-11-17 10:29:13,854 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Kvalme i graviditet.md since it didn't contain #p0
+2021-11-17 10:29:13,854 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Interleaved practice is high utility.md since it didn't contain #p0
+2021-11-17 10:29:13,854 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Ganglier.md since it didn't contain #p0
+2021-11-17 10:29:13,854 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Binyreinsufficiens.md since it didn't contain #p0
+2021-11-17 10:29:13,854 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Interactive HPC-DK AI.md since it didn't contain #p0
+2021-11-17 10:29:13,855 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Tlf Herning.md since it didn't contain #p0
+2021-11-17 10:29:13,855 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/When having clarified values, put in habits in service of those values.md since it didn't contain #p0
+2021-11-17 10:29:13,855 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Sekundær hyperaldosteronisme.md since it didn't contain #p0
+2021-11-17 10:29:13,855 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Hæshed.md since it didn't contain #p0
+2021-11-17 10:29:13,855 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How do I balance WIP in knowledge work.md since it didn't contain #p0
+2021-11-17 10:29:13,855 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Anæmi pga- kronisk sygdom.md since it didn't contain #p0
+2021-11-17 10:29:13,855 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Smear.md since it didn't contain #p0
+2021-11-17 10:29:13,855 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How do I systematise nuts and seeds intake.md since it didn't contain #p0
+2021-11-17 10:29:13,855 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Soul (Disney).md since it didn't contain #p0
+2021-11-17 10:29:13,856 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/02-11-2021 - Home.md since it didn't contain #p0
+2021-11-17 10:29:13,856 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Goal setting increases performance.md since it didn't contain #p0
+2021-11-17 10:29:13,856 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How do I estimate the marginal value of an Nh in LWS.md since it didn't contain #p0
+2021-11-17 10:29:13,856 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/How do I make it so that I complete the essentials in Anki sessions.md since it didn't contain #p0
+2021-11-17 10:29:13,856 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Hypofysen.md since it didn't contain #p0
+2021-11-17 10:29:13,856 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Nekrotiserende bløddelsinfektioner.md since it didn't contain #p0
+2021-11-17 10:29:13,856 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/B12.md since it didn't contain #p0
+2021-11-17 10:29:13,856 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Traumatisk kompartmentsyndrom.md since it didn't contain #p0
+2021-11-17 10:29:13,856 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Hey- believes that feeds decrease commitment.md since it didn't contain #p0
+2021-11-17 10:29:13,856 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Magnesium.md since it didn't contain #p0
+2021-11-17 10:29:13,856 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Radialtunnelsyndrom.md since it didn't contain #p0
+2021-11-17 10:29:13,857 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Laktat.md since it didn't contain #p0
+2021-11-17 10:29:13,857 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Os ilium.md since it didn't contain #p0
+2021-11-17 10:29:13,857 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Can we use regular therapies on functional disorders.md since it didn't contain #p0
+2021-11-17 10:29:13,857 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Pandas.md since it didn't contain #p0
+2021-11-17 10:29:13,857 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Tibia.md since it didn't contain #p0
+2021-11-17 10:29:13,857 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Goal contents mediate goal integration.md since it didn't contain #p0
+2021-11-17 10:29:13,857 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Nyrerne.md since it didn't contain #p0
+2021-11-17 10:29:13,857 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Web scraping.md since it didn't contain #p0
+2021-11-17 10:29:13,858 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Primær hypogonadisme.md since it didn't contain #p0
+2021-11-17 10:29:13,858 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Learn from the memory prompts in quantum country.md since it didn't contain #p0
+2021-11-17 10:29:13,858 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Shallow novelty.md since it didn't contain #p0
+2021-11-17 10:29:13,858 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/-Memorise lists for medicine.md since it didn't contain #p0
+2021-11-17 10:29:13,858 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Sarkomer.md since it didn't contain #p0
+2021-11-17 10:29:13,858 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Hyperprolaktinæmi.md since it didn't contain #p0
+2021-11-17 10:29:13,858 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Gruppemøde 23-08-2021.md since it didn't contain #p0
+2021-11-17 10:29:13,858 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Spondylolistese.md since it didn't contain #p0
+2021-11-17 10:29:13,859 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Zolpidem.md since it didn't contain #p0
+2021-11-17 10:29:13,859 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Vision.md since it didn't contain #p0
+2021-11-17 10:29:13,859 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What seems important in the moment rarely is.md since it didn't contain #p0
+2021-11-17 10:29:13,859 /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Weekly planning.md contains #p0
+2021-11-17 10:29:13,859 Checking /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Weekly planning.md for must_tag #work
+2021-11-17 10:29:13,859 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Weekly planning.md since it didn't match #work
+2021-11-17 10:29:13,859 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Thyroidea.md since it didn't contain #p0
+2021-11-17 10:29:13,859 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Balanitis.md since it didn't contain #p0
+2021-11-17 10:29:13,859 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/05-11-2021 - Work.md since it didn't contain #p0
+2021-11-17 10:29:13,859 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Hofteluksation.md since it didn't contain #p0
+2021-11-17 10:29:13,859 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Endokrin hypertension.md since it didn't contain #p0
+2021-11-17 10:29:13,859 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/CRH.md since it didn't contain #p0
+2021-11-17 10:29:13,859 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Gratitude is better when specific.md since it didn't contain #p0
+2021-11-17 10:29:13,859 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Alzheimers demens.md since it didn't contain #p0
+2021-11-17 10:29:13,860 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/WEIRD.md since it didn't contain #p0
+2021-11-17 10:29:13,860 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Bursitis subacromialis (calcareae).md since it didn't contain #p0
+2021-11-17 10:29:13,860 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Akut nyresvigt (AKI).md since it didn't contain #p0
+2021-11-17 10:29:13,860 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Technology for the betting table.md since it didn't contain #p0
+2021-11-17 10:29:13,860 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Chance-fraktur.md since it didn't contain #p0
+2021-11-17 10:29:13,860 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/-My experience system.md since it didn't contain #p0
+2021-11-17 10:29:13,860 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Kokain.md since it didn't contain #p0
+2021-11-17 10:29:13,860 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Guide novelty search.md since it didn't contain #p0
+2021-11-17 10:29:13,860 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Scientific writing, Sia.md since it didn't contain #p0
+2021-11-17 10:29:13,860 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Handling censored data in ML.md since it didn't contain #p0
+2021-11-17 10:29:13,861 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Which activities are rejuvenating.md since it didn't contain #p0
+2021-11-17 10:29:13,861 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Nature is antidepressant.md since it didn't contain #p0
+2021-11-17 10:29:13,861 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Great conversationalists ask questions to make their point.md since it didn't contain #p0
+2021-11-17 10:29:13,861 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/When to prioritise execution.md since it didn't contain #p0
+2021-11-17 10:29:13,861 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/TRH.md since it didn't contain #p0
+2021-11-17 10:29:13,861 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Experiential avoidance.md since it didn't contain #p0
+2021-11-17 10:29:13,861 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/What might indicate insufficient commitment.md since it didn't contain #p0
+2021-11-17 10:29:13,861 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Sekretorisk otitis media.md since it didn't contain #p0
+2021-11-17 10:29:13,861 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Habitual and intentional behaviour are different.md since it didn't contain #p0
+2021-11-17 10:29:13,862 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Teams need to care about each other to derive the true benefit of a team.md since it didn't contain #p0
+2021-11-17 10:29:13,862 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Köbners fænomen.md since it didn't contain #p0
+2021-11-17 10:29:13,862 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Value-centered activity menu.md since it didn't contain #p0
+2021-11-17 10:29:13,862 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Be casual about your minutes, considerate about your days and careful about your years.md since it didn't contain #p0
+2021-11-17 10:29:13,862 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Response.md since it didn't contain #p0
+2021-11-17 10:29:13,862 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/On work ethic.md since it didn't contain #p0
+2021-11-17 10:29:13,862 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Pneumoni.md since it didn't contain #p0
+2021-11-17 10:29:13,862 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Approach vs- Avoidance goals.md since it didn't contain #p0
+2021-11-17 10:29:13,862 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Head Impulse Test.md since it didn't contain #p0
+2021-11-17 10:29:13,862 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Framing of ML problems - Lauritsen 2021.md since it didn't contain #p0
+2021-11-17 10:29:13,863 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Akut dyspnø.md since it didn't contain #p0
+2021-11-17 10:29:13,863 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Debugging.md since it didn't contain #p0
+2021-11-17 10:29:13,863 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Fear.md since it didn't contain #p0
+2021-11-17 10:29:13,863 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Revisit inklings ad-hoc.md since it didn't contain #p0
+2021-11-17 10:29:13,863 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Out-toeing.md since it didn't contain #p0
+2021-11-17 10:29:13,863 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Mindfulness.md since it didn't contain #p0
+2021-11-17 10:29:13,863 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Raynauds fænomen.md since it didn't contain #p0
+2021-11-17 10:29:13,864 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Xanthelasma.md since it didn't contain #p0
+2021-11-17 10:29:13,864 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/My ideal partnership can extract fun out of unfun situations.md since it didn't contain #p0
+2021-11-17 10:29:13,864 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Homocystein.md since it didn't contain #p0
+2021-11-17 10:29:13,864 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Rotatorisk vertigo.md since it didn't contain #p0
+2021-11-17 10:29:13,864 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Functional somatic syndromes share pathophysiology.md since it didn't contain #p0
+2021-11-17 10:29:13,864 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Skuffetest i skulder.md since it didn't contain #p0
+2021-11-17 10:29:13,864 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Infraspinatus.md since it didn't contain #p0
+2021-11-17 10:29:13,864 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Don’t memorise lists.md since it didn't contain #p0
+2021-11-17 10:29:13,864 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Interleaved Practice.md since it didn't contain #p0
+2021-11-17 10:29:13,864 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Acne fulminans.md since it didn't contain #p0
+2021-11-17 10:29:13,865 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Intermittently continuing.md since it didn't contain #p0
+2021-11-17 10:29:13,865 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Work Cycles.md since it didn't contain #p0
+2021-11-17 10:29:13,865 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Smitsomme sygdomme hos børn og unge.md since it didn't contain #p0
+2021-11-17 10:29:13,865 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Træthed.md since it didn't contain #p0
+2021-11-17 10:29:13,865 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/§Article-idea 3.md since it didn't contain #p0
+2021-11-17 10:29:13,865 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Why strategy requires sacrifice.md since it didn't contain #p0
+2021-11-17 10:29:13,865 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Folatmangel.md since it didn't contain #p0
+2021-11-17 10:29:13,866 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Platfod.md since it didn't contain #p0
+2021-11-17 10:29:13,866 Skipped /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/McMurrays test.md since it didn't contain #p0
+2021-11-17 10:29:13,866 /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Which level of fidelity is required for our algorithm design for us to give good feedback.md contains #p0
+2021-11-17 10:29:13,866 Checking /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Which level of fidelity is required for our algorithm design for us to give good feedback.md for must_tag #work
+2021-11-17 10:29:13,866 Didn't skip /Users/au484925/Library/Mobile Documents/iCloud~md~obsidian/Documents/Life Lessons/Which level of fidelity is required for our algorithm design for us to give good feedback.md since it matched #work
