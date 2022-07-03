@@ -8,6 +8,6 @@ def test_paths_from_dir():
     base_path = os.path.abspath(os.curdir)
     path = Path(base_path) / "application"
 
-    results = filepaths_from_dir(path)
+    results = filepaths_from_dir(path, suffix="sh")
 
-    assert len(results) == 3
+    assert len(results) == 1
