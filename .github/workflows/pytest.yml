@@ -24,7 +24,7 @@ jobs:
     - name: Run and write pytest
       run: |
         set -o pipefail
-        poetry run pytest --cov=src --cov-report term-missing | tee pytest-coverage.txt
+        poetry run pytest | tee pytest-coverage.txt
     - name: Coverage comment
       id: coverage-comment
       uses: MishaKav/pytest-coverage-comment@v1.1.24
