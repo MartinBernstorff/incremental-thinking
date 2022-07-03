@@ -2,3 +2,4 @@
 .vscode
 poetry.lock
 .venv
+*.pyc

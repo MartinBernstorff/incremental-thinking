@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "incthink"
+name = "inc"
 version = "0.1.0"
 description = ""
 authors = ["Martin Bernstorff <martinbernstorff@gmail.com>"]
