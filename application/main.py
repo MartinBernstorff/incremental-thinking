@@ -3,31 +3,31 @@
 files.
 
 Usage:
-    promote.py [-r DIR]
+    main.py [-r DIR]
 
 Options:
     -r DIR          Recursively visit DIR, accumulating cards from `.md` files.
 """
 
 import curses
-import json
 import logging
 import os
 import re
 import sys
 import webbrowser
+from typing import Iterable
 
 from docopt import docopt
 
-from src.inc.incthink.file_editor_handling import create_obsidian_url, open_in_bear
-from src.inc.incthink.filesystem_handling import filepaths_from_dir
-from src.inc.incthink.logging import my_handler
-from src.inc.incthink.md_file_editors import (
+from inc.incthink.file_editor_handling import create_obsidian_url, open_in_bear
+from inc.incthink.filesystem_handling import filepaths_from_dir
+from inc.incthink.logging import my_handler
+from inc.incthink.md_file_editors import (
     add_tag_and_write,
     increment_priority,
     remove_tag_and_write,
 )
-from src.inc.incthink.utils import convert_prob_to_bool, prob_generator
+from inc.incthink.utils import convert_prob_to_bool, prob_generator
 
 # Setup logging
 logging.basicConfig(
@@ -40,24 +40,18 @@ logging.basicConfig(
 # Install exception handler
 sys.excepthook = my_handler
 
-CONFIG = {"version_log": ".mdvlog", "updated_only": False, "checkbox": True}
+CFG = {"version_log": ".mdvlog", "updated_only": False, "checkbox": True}
 VERSION = "0.0.1"
 VERSION_LOG = {}
 STEPS = [1, 1, 7, 28, 360]
 
 
 def apply_arguments(arguments):
-    global CONFIG
+    global CFG
     if arguments.get("-r") is not None:
-        CONFIG["recur_dir"] = arguments.get("-r")
+        CFG["recur_dir"] = arguments.get("-r")
     if arguments.get("-d") is not None:
-        CONFIG["destination"] = arguments.get("-d")
-
-
-def load_version_log(version_log):
-    global VERSION_LOG
-    if os.path.exists(version_log):
-        VERSION_LOG = json.load(open(version_log, "r"))
+        CFG["destination"] = arguments.get("-d")
 
 
 def main_window(win, filepath, number, content):  # noqa
@@ -155,66 +149,42 @@ def check_priority(filepath, excluded_tags, must_tags):
             return
 
 
-def process_file(filepath, excluded_tags, must_tags):
+def process_file(filepath, blacklist_tags: Iterable, whitelist_tags: Iterable):
     with open(filepath, "r", encoding="utf8") as f:
-        content = f.read()
+        f_content = f.read()
 
-        for tag in excluded_tags:
-            if tag.lower() in content.lower():
-                logging.info("Skipped {} since it matched {}".format(filepath, tag))
-                return
-            else:
-                logging.info(
-                    "Didn't skip {} since it didn't match {}".format(filepath, tag),
-                )
+        p_tag = re.compile(r"#p\d+")
 
-        for tag in must_tags:
-            logging.info("Checking {} for {}".format(filepath, tag))
-            if tag.lower() not in content.lower():
-                logging.info(
-                    "Skipped {} since it didn't match {}".format(filepath, tag),
-                )
-                return
-            elif tag.lower() in content.lower():
-                logging.info("Didn't skip {} since it matched {}".format(filepath, tag))
+        # Handle tag updating
+        if p_tag.search(f_content) is not None:
+            p_int = int(re.findall(r"#p\d+", f_content)[0][-1])
 
-        priority_tag = re.compile(r"#p\d+")
-
-        if priority_tag.search(content) is not None:
-            number = int(re.findall(r"#p\d+", content)[0][-1])
-
-            if number > len(STEPS):
-                content = re.sub(r"#p\d+", "", content)
-                content = re.sub(r"#promoted", "", content)
+            if p_int > len(STEPS):
+                f_content = re.sub(r"#p\d+", "", f_content)
+                f_content = re.sub(r"#promoted", "", f_content)
 
                 with open(filepath, "w", encoding="utf8") as f:
                     logging.info(
-                        "Changed file {} for the {} time".format(filepath, number),
+                        "Changed file {} for the {} time".format(filepath, p_int),
                     )
-                    print("Changed file {} for the {} time".format(filepath, number))
-                    f.write(content)
+                    print("Changed file {} for the {} time".format(filepath, p_int))
+                    f.write(f_content)
             else:
-                if convert_prob_to_bool(prob_generator(STEPS[number - 1])):
-                    curses.wrapper(main_window, filepath, number, content)
+                if convert_prob_to_bool(prob_generator(STEPS[p_int - 1])):
+                    curses.wrapper(main_window, filepath, p_int, f_content)
 
 
 def main():
     """Run the thing."""
     apply_arguments(docopt(__doc__, version=VERSION))
-
-    initial_dir = os.getcwd()
-    recur_dir = os.path.abspath(os.path.expanduser(CONFIG["recur_dir"]))
-    version_log = os.path.abspath(os.path.expanduser(CONFIG["version_log"]))
-
-    load_version_log(version_log)
+    recur_dir = os.path.abspath(os.path.expanduser(CFG["recur_dir"]))
 
     logging.info("------ Started new session ------")
 
-    filepaths_from_dir(recur_dir)
+    files = filepaths_from_dir(recur_dir)
 
-    os.chdir(initial_dir)
-
-    json.dump(VERSION_LOG, open(version_log, "w"))
+    for f_path in files:
+        process_file(filepath=f_path)
 
 
 if __name__ == "__main__":
