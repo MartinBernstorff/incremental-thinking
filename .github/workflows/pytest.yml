@@ -34,13 +34,3 @@ jobs:
       run: |
         echo "Coverage Report - ${{ steps.coverage-comment.outputs.coverage }}"
         echo "Coverage Color - ${{ steps.coverage-comment.outputs.color }}"
-    - name: Create Badge
-      uses: schneegans/dynamic-badges-action@v1.1.0
-      with:
-        auth: ${{ secrets.PYTEST_COVERAGE }}
-        gistID: d6c40a5b5a3169c079e8b8f778b8e517
-        filename: badge-psycop-ml-utils-pytest-coverage.json
-        label: Coverage
-        message: ${{ steps.coverage-comment.outputs.coverage }}
-        color: ${{ steps.coverage-comment.outputs.color }}
-        namedLogo: python
