@@ -1,0 +1,36 @@
+name: CI Pytest
+on:
+  push:
+    branches: [ main, dev ]
+  pull_request:
+    branches: [ main, dev ]
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+    - name: Install poetry
+      run: pipx install poetry
+    - name: Install dependencies
+      run: |
+        poetry install
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.9
+        cache: 'poetry'
+    - name: Run and write pytest
+      run: |
+        set -o pipefail
+        poetry run pytest | tee pytest-coverage.txt
+    - name: Coverage comment
+      id: coverage-comment
+      uses: MishaKav/pytest-coverage-comment@v1.1.24
+      with:
+        pytest-coverage-path: ./pytest-coverage.txt
+    - name: Output coverage
+      run: |
+        echo "Coverage Report - ${{ steps.coverage-comment.outputs.coverage }}"
+        echo "Coverage Color - ${{ steps.coverage-comment.outputs.color }}"

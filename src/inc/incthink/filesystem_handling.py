@@ -1,5 +1,3 @@
-import os
-import random
 from pathlib import Path
 from typing import List
 
@@ -10,4 +8,4 @@ def filepaths_from_dir(path: Path, suffix: str = None) -> List:
     if suffix:
         return [f for f in dir_path.glob(pattern=f"*.{suffix}")]
     else:
-        return [f for f in dir_path.glob(pattern=f"*")]
+        return [f for f in dir_path.glob(pattern="*")]

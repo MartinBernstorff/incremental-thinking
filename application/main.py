@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Temporary promotions: A script for incrementing promotion tags from markdown files
+"""Temporary promotions: A script for incrementing promotion tags from markdown
+files.
 
 Usage:
     promote.py [-r DIR]
 
 Options:
     -r DIR          Recursively visit DIR, accumulating cards from `.md` files.
-    
 """
 
 import curses
@@ -15,7 +15,6 @@ import logging
 import os
 import re
 import sys
-import tempfile
 import webbrowser
 
 from docopt import docopt
@@ -61,7 +60,7 @@ def load_version_log(version_log):
         VERSION_LOG = json.load(open(version_log, "r"))
 
 
-def main_window(win, filepath, number, content):
+def main_window(win, filepath, number, content):  # noqa
     uid_string = re.findall(r"<!-- {BearID:.+} -->", content)[0]
     uid = re.findall(r"{BearID:.+}", content)[0][8:-1]
 
@@ -115,8 +114,7 @@ def main_window(win, filepath, number, content):
                 remove_tag_and_write(filepath, content)
                 return
         except Exception as e:
-            # No input
-            pass
+            raise e
 
 
 def check_priority(filepath, excluded_tags, must_tags):
@@ -133,19 +131,19 @@ def check_priority(filepath, excluded_tags, must_tags):
                     return
                 else:
                     logging.info(
-                        "Didn't skip {} since it didn't match {}".format(filepath, tag)
+                        "Didn't skip {} since it didn't match {}".format(filepath, tag),
                     )
 
             for tag in must_tags:
                 logging.info("Checking {} for must_tag {}".format(filepath, tag))
                 if tag.lower() not in content.lower():
                     logging.info(
-                        "Skipped {} since it didn't match {}".format(filepath, tag)
+                        "Skipped {} since it didn't match {}".format(filepath, tag),
                     )
                     return
                 else:
                     logging.info(
-                        "Didn't skip {} since it matched {}".format(filepath, tag)
+                        "Didn't skip {} since it matched {}".format(filepath, tag),
                     )
 
             number = int(re.findall(r"#p\d+", content)[0][-1])
@@ -167,14 +165,14 @@ def process_file(filepath, excluded_tags, must_tags):
                 return
             else:
                 logging.info(
-                    "Didn't skip {} since it didn't match {}".format(filepath, tag)
+                    "Didn't skip {} since it didn't match {}".format(filepath, tag),
                 )
 
         for tag in must_tags:
             logging.info("Checking {} for {}".format(filepath, tag))
             if tag.lower() not in content.lower():
                 logging.info(
-                    "Skipped {} since it didn't match {}".format(filepath, tag)
+                    "Skipped {} since it didn't match {}".format(filepath, tag),
                 )
                 return
             elif tag.lower() in content.lower():
@@ -191,7 +189,7 @@ def process_file(filepath, excluded_tags, must_tags):
 
                 with open(filepath, "w", encoding="utf8") as f:
                     logging.info(
-                        "Changed file {} for the {} time".format(filepath, number)
+                        "Changed file {} for the {} time".format(filepath, number),
                     )
                     print("Changed file {} for the {} time".format(filepath, number))
                     f.write(content)
@@ -212,10 +210,9 @@ def main():
 
     logging.info("------ Started new session ------")
 
-    with tempfile.TemporaryDirectory() as tmpdirname:
-        filepaths_from_dir(recur_dir)
+    filepaths_from_dir(recur_dir)
 
-        os.chdir(initial_dir)
+    os.chdir(initial_dir)
 
     json.dump(VERSION_LOG, open(version_log, "w"))
 
