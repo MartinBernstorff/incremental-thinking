@@ -1,3 +1,4 @@
+import re
 import urllib.parse
 import webbrowser
 

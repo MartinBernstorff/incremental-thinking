@@ -21,7 +21,7 @@ def remove_tag_and_write(filepath, content):
 def increment_priority(filepath, number, content):
     number += 1
 
-    if number > len(STEPS):
+    if number > len(STEPS):  # noqa
         content = re.sub(r"#p\d+", "", content)
     else:
         content = re.sub(r"#p\d+", "#p{}".format(str(number)), content)
