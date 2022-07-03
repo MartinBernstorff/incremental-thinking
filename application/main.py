@@ -20,18 +20,15 @@ import webbrowser
 
 from docopt import docopt
 
-from src.incremental_thinking.file_editor_handling import (
-    create_obsidian_url,
-    open_in_bear,
-)
-from src.incremental_thinking.filesystem_handling import filepaths_from_dir
-from src.incremental_thinking.logging import my_handler
-from src.incremental_thinking.md_file_editors import (
+from src.inc.incthink.file_editor_handling import create_obsidian_url, open_in_bear
+from src.inc.incthink.filesystem_handling import filepaths_from_dir
+from src.inc.incthink.logging import my_handler
+from src.inc.incthink.md_file_editors import (
     add_tag_and_write,
     increment_priority,
     remove_tag_and_write,
 )
-from src.incremental_thinking.utils import convert_prob_to_bool, prob_generator
+from src.inc.incthink.utils import convert_prob_to_bool, prob_generator
 
 # Setup logging
 logging.basicConfig(
