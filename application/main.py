@@ -15,11 +15,11 @@ import os
 import re
 import sys
 import webbrowser
-from typing import Iterable
 
 from docopt import docopt
 
 from inc.incthink.file_editor_handling import create_obsidian_url, open_in_bear
+from inc.incthink.file_processing import process_file
 from inc.incthink.filesystem_handling import filepaths_from_dir
 from inc.incthink.logging import my_handler
 from inc.incthink.md_file_editors import (
@@ -27,7 +27,6 @@ from inc.incthink.md_file_editors import (
     increment_priority,
     remove_tag_and_write,
 )
-from inc.incthink.utils import convert_prob_to_bool, prob_generator
 
 # Setup logging
 logging.basicConfig(
@@ -147,31 +146,6 @@ def check_priority(filepath, excluded_tags, must_tags):
         else:
             logging.info("Skipped {} since it didn't contain #p0".format(filepath))
             return
-
-
-def process_file(filepath, blacklist_tags: Iterable, whitelist_tags: Iterable):
-    with open(filepath, "r", encoding="utf8") as f:
-        f_content = f.read()
-
-        p_tag = re.compile(r"#p\d+")
-
-        # Handle tag updating
-        if p_tag.search(f_content) is not None:
-            p_int = int(re.findall(r"#p\d+", f_content)[0][-1])
-
-            if p_int > len(STEPS):
-                f_content = re.sub(r"#p\d+", "", f_content)
-                f_content = re.sub(r"#promoted", "", f_content)
-
-                with open(filepath, "w", encoding="utf8") as f:
-                    logging.info(
-                        "Changed file {} for the {} time".format(filepath, p_int),
-                    )
-                    print("Changed file {} for the {} time".format(filepath, p_int))
-                    f.write(f_content)
-            else:
-                if convert_prob_to_bool(prob_generator(STEPS[p_int - 1])):
-                    curses.wrapper(main_window, filepath, p_int, f_content)
 
 
 def main():
