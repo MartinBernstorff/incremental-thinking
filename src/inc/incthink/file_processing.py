@@ -1,6 +1,8 @@
 import re
 from typing import Dict, Iterable
 
+from wasabi import msg
+
 from inc.incthink.utils import convert_prob_to_bool
 
 
@@ -9,7 +11,7 @@ def process_file(
     blacklist_tags: Iterable = None,
     whitelist_tags: Iterable = None,
     tag_prefix: str = "#p",
-    dry_run=True,
+    write_files=True,
     iteration2intervals: Dict = {
         0: {"inbox_interval": 7, "wait_interval": 0},
         2: {"inbox_interval": 7, "wait_interval": 28},
@@ -18,7 +20,7 @@ def process_file(
         4: {"inbox_interval": 7, "wait_interval": 365},
         5: {"inbox_interval": 7, "wait_interval": 725},
     },
-    inbox_tag: str = "#^.inbox",
+    inbox_tag: str = "#^.inbox#",
 ):
     """Process file.
 
@@ -40,12 +42,19 @@ def process_file(
         tag_matches = tag_pattern.findall(f_content)
 
         if len(tag_matches) > 1:
-            raise ValueError(f"More than one tag matches {tag_pattern}")
+            filename = str(filepath).split("/")[-1]
+            msg.warn(f"{filename}: >1 # match")
         elif len(tag_matches) == 0:
-            raise ValueError(f"No tag matches {tag_pattern}")
+            return
         elif len(tag_matches) == 1:
             tag = tag_matches[0]
             iteration = int(tag.replace(tag_prefix, ""))
+
+            if iteration not in iteration2intervals:
+                msg.warn(
+                    f"{filename}: iteration {iteration} not in iteration2intervals",
+                )
+                return
 
             if inbox_tag not in f_content:
                 f_content = process_in_queue(
@@ -65,7 +74,7 @@ def process_file(
                     iteration=iteration,
                 )
 
-            if not dry_run:
+            if write_files:
                 with open(filepath, "w", encoding="utf8") as f:
                     f.write(f_content)
             else:
