@@ -39,6 +39,9 @@ def main(args):
     for f_path in files:
         process_file(filepath=f_path, write_files=args.write_files)
 
+    if not args.write_files:
+        msg.info(f"args.write_files is {args.write_files}, not writing files")
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -47,7 +50,7 @@ if __name__ == "__main__":
         help="Recursively visit DIR, processing `.md` files.",
         dest="recur_dir",
     )
-    parser.add_argument("--write_files", dest="write_files", action="store_false")
+    parser.add_argument("--write-files", dest="write_files", action="store_true")
     args = parser.parse_args()
 
     main(args=args)
